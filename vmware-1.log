@@ -1,0 +1,1672 @@
+2019-09-26T09:32:53.658+08:00| vmx| I125: Log for VMware Workstation pid=6772 version=12.5.2 build=build-4638234 option=Release
+2019-09-26T09:32:53.658+08:00| vmx| I125: The process is 64-bit.
+2019-09-26T09:32:53.658+08:00| vmx| I125: Host codepage=windows-936 encoding=GBK
+2019-09-26T09:32:53.658+08:00| vmx| I125: Host is Windows Server 2016, 64-bit  (Build 14393)
+2019-09-26T09:32:53.564+08:00| vmx| I125: VTHREAD initialize main thread 0 "vmx" host id 4632
+2019-09-26T09:32:53.580+08:00| vmx| I125: LOCALE GBK -> zh_CN User=804 System=804
+2019-09-26T09:32:53.580+08:00| vmx| I125: Msg_SetLocaleEx: HostLocale=GBK UserLocale=zh_CN
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: DictionaryLoad: Cannot open file "C:\Users\r\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2019-09-26T09:32:53.611+08:00| vmx| I125: Msg_Reset:
+2019-09-26T09:32:53.611+08:00| vmx| I125: [msg.dictionary.load.openFailed] Cannot open file "C:\Users\r\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2019-09-26T09:32:53.611+08:00| vmx| I125: ----------------------------------------
+2019-09-26T09:32:53.611+08:00| vmx| I125: ConfigDB: Failed to load C:\Users\r\AppData\Roaming\VMware\config.ini
+2019-09-26T09:32:53.611+08:00| vmx| I125: OBJLIB-LIB: Objlib initialized.
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware\VMware Workstation): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.611+08:00| vmx| I125: DictionaryLoad: Cannot open file "C:\Users\r\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2019-09-26T09:32:53.611+08:00| vmx| I125: PREF Optional preferences file not found at C:\Users\r\AppData\Roaming\VMware\config.ini. Using default values.
+2019-09-26T09:32:53.611+08:00| vmx| I125: UUID: SMBIOS UUID is reported as '56 4d 6c 66 21 3e d3 29-1a bc 6c da a6 9f 03 62'.
+2019-09-26T09:32:53.611+08:00| vmx| I125: FILE: FileLockDynaLink: Further process validation tools are: available
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users\r): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users\r\AppData): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users\r\AppData\Local): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users\r\AppData\Local\Temp): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.658+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users\r\AppData\Local\Temp\vmware-r): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:53.736+08:00| vmx| I125: Hostname=ren
+2019-09-26T09:32:53.736+08:00| vmx| I125: IP=fe80::aca3:7ab7:44ed:98b0%4
+2019-09-26T09:32:53.736+08:00| vmx| I125: IP=fe80::e578:2e4d:2fd3:dbc5%15
+2019-09-26T09:32:53.736+08:00| vmx| I125: IP=fe80::f901:bb71:4e60:a8eb%34
+2019-09-26T09:32:53.736+08:00| vmx| I125: IP=fe80::945f:cb30:5458:61ff%33
+2019-09-26T09:32:53.736+08:00| vmx| I125: IP=fe80::1829:7c03:c452:e148%12
+2019-09-26T09:32:53.736+08:00| vmx| I125: IP=192.168.56.1
+2019-09-26T09:32:53.736+08:00| vmx| I125: IP=172.16.10.43
+2019-09-26T09:32:53.736+08:00| vmx| I125: IP=192.168.154.1
+2019-09-26T09:32:53.736+08:00| vmx| I125: IP=192.168.126.1
+2019-09-26T09:32:53.736+08:00| vmx| I125: IP=2001:0:348b:fb58:1829:7c03:c452:e148
+2019-09-26T09:32:53.768+08:00| vmx| I125: System uptime 49297161665 us
+2019-09-26T09:32:53.768+08:00| vmx| I125: Command line: "C:\Program Files (x86)\VMware\VMware Workstation\x64\vmware-vmx.exe" "-T" "querytoken" "-E" "zh_CN" "-s" "vmx.stdio.keep=TRUE" "-#" "product=1;name=VMware Workstation;version=12.5.2;buildnumber=4638234;licensename=VMware Workstation;licenseversion=12.0;" "-@" "pipe=\\.\pipe\vmx3280f563d6b63241;msgs=ui" "D:\Windows 7_1\Windows 7_1.vmx"
+2019-09-26T09:32:53.768+08:00| vmx| I125: Msg_SetLocaleEx: HostLocale=GBK UserLocale=zh_CN
+2019-09-26T09:32:53.830+08:00| vmx| I125: VigorTransport listening on fd 644
+2019-09-26T09:32:53.830+08:00| vmx| I125: Vigor_Init 1
+2019-09-26T09:32:53.830+08:00| vmx| I125: Connecting 'ui' to pipe '\\.\pipe\vmx3280f563d6b63241' with user '(null)'
+2019-09-26T09:32:53.830+08:00| vmx| I125: VMXVmdb: Local connection timeout: 60000 ms.
+2019-09-26T09:32:53.924+08:00| vmx| I125: VmdbAddConnection: cnxPath=/db/connection/#1/, cnxIx=1
+2019-09-26T09:32:53.924+08:00| vmx| I125: Vix: [4632 mainDispatch.c:490]: VMAutomation: Initializing VMAutomation.
+2019-09-26T09:32:53.924+08:00| vmx| I125: Vix: [4632 mainDispatch.c:746]: VMAutomationOpenListenerSocket() listening
+2019-09-26T09:32:53.924+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2019-09-26T09:32:53.924+08:00| vmx| I125: Transitioned vmx/execState/val to poweredOff
+2019-09-26T09:32:53.924+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2019-09-26T09:32:53.924+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1877, success=1 additionalError=0
+2019-09-26T09:32:53.924+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=3, newAppState=1881, success=1 additionalError=0
+2019-09-26T09:32:53.924+08:00| vmx| I125: IOPL_Init: VMware detected by CPUID
+2019-09-26T09:32:53.924+08:00| vmx| I125: IOPL_Init: VMware detected
+2019-09-26T09:32:53.924+08:00| vmx| I125: IOPL_Init: VMware nested VM support detected
+2019-09-26T09:32:53.986+08:00| vmx| I125: IOPL_VBSRunning: VBS is set to 0
+2019-09-26T09:32:53.986+08:00| vmx| W115: Can't set WSS, error 1314
+2019-09-26T09:32:53.986+08:00| vmx| I125: VerificationOfHostParameters status 1
+2019-09-26T09:32:53.986+08:00| vmx| W115: VMX can't verify host parameters.
+2019-09-26T09:32:53.986+08:00| vmx| I125: FeatureCompat: No EVC masks.
+2019-09-26T09:32:53.986+08:00| vmx| I125: hostCPUID vendor: GenuineIntel
+2019-09-26T09:32:53.986+08:00| vmx| I125: hostCPUID family: 0x6 model: 0x5e stepping: 0x3
+2019-09-26T09:32:53.986+08:00| vmx| I125: hostCPUID codename: Skylake-S
+2019-09-26T09:32:53.986+08:00| vmx| I125: hostCPUID name: Intel(R) Xeon(R) CPU E3-1220 v5 @ 3.00GHz
+2019-09-26T09:32:53.986+08:00| vmx| I125: hostCPUID level 00000000, 0: 0x0000000d 0x756e6547 0x6c65746e 0x49656e69
+2019-09-26T09:32:53.986+08:00| vmx| I125: hostCPUID level 00000001, 0: 0x000506e3 0x00040800 0xfffa3203 0x1fabfbff
+2019-09-26T09:32:53.986+08:00| vmx| I125: hostCPUID level 00000002, 0: 0x76036301 0x00f0b6ff 0x00000000 0x00c30000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000003, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000004, 0: 0x0c00c121 0x01c0003f 0x0000003f 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000004, 1: 0x0c00c122 0x01c0003f 0x0000003f 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000004, 2: 0x0c00c143 0x00c0003f 0x000003ff 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000004, 3: 0x0c00c163 0x03c0003f 0x00001fff 0x00000006
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000004, 4: 0x0c000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000006, 0: 0x000027f7 0x00000002 0x00000009 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000007, 0: 0x00000000 0x001c2fbb 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 00000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000a, 0: 0x07300801 0x0000007f 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000b, 0: 0x00000000 0x00000001 0x00000100 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000b, 1: 0x00000002 0x00000004 0x00000201 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 0: 0x00000007 0x00000340 0x00000440 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 1: 0x00000001 0x00000340 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 2: 0x00000100 0x00000240 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 3: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 4: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 5: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 6: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 7: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 8: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 9: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, a: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, b: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, c: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, d: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, e: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, f: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 10: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 11: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 12: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 13: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 14: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 15: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 16: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 17: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 18: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 19: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 1a: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 1b: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 1c: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 1d: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 1e: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 1f: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 20: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 21: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 22: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 23: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 24: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 25: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 26: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 27: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 28: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 29: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 2a: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 2b: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 2c: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 2d: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 2e: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 2f: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 30: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 31: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 32: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 33: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 34: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 35: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 36: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 37: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 38: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 39: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 3a: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 3b: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 3c: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 3d: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 3e: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 0000000d, 3f: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000000, 0: 0x40000010 0x61774d56 0x4d566572 0x65726177
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000001, 0: 0x31237648 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000002, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000003, 0: 0x00000262 0x00000000 0x00000000 0x00000508
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000004, 0: 0x00000020 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000005, 0: 0xffffffff 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000006, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000007, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000008, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000009, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 4000000a, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 4000000b, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 4000000c, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 4000000d, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 4000000e, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 4000000f, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 40000010, 0: 0x002dc6c0 0x000101d0 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 80000000, 0: 0x80000008 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 80000001, 0: 0x00000000 0x00000000 0x00000121 0x2c100800
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 80000002, 0: 0x65746e49 0x2952286c 0x6f655820 0x2952286e
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 80000003, 0: 0x55504320 0x2d334520 0x30323231 0x20357620
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 80000004, 0: 0x2e332040 0x48473030 0x0000007a 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 80000005, 0: 0x00000000 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 80000006, 0: 0x00000000 0x00000000 0x01006040 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 80000007, 0: 0x00000000 0x00000000 0x00000000 0x00000100
+2019-09-26T09:32:54.002+08:00| vmx| I125: hostCPUID level 80000008, 0: 0x0000302a 0x00000000 0x00000000 0x00000000
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID differences from hostCPUID.
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[1] level 00000001, 0: 0x000506e3 0x01040800 0xfffa3203 0x1fabfbff
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[1] level 0000000b, 0: 0x00000000 0x00000001 0x00000100 0x00000001
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[1] level 0000000b, 1: 0x00000002 0x00000004 0x00000201 0x00000001
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[1] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000001
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[2] level 00000001, 0: 0x000506e3 0x02040800 0xfffa3203 0x1fabfbff
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[2] level 0000000b, 0: 0x00000000 0x00000001 0x00000100 0x00000002
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[2] level 0000000b, 1: 0x00000002 0x00000004 0x00000201 0x00000002
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[2] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000002
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[3] level 00000001, 0: 0x000506e3 0x03040800 0xfffa3203 0x1fabfbff
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[3] level 0000000b, 0: 0x00000000 0x00000001 0x00000100 0x00000003
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[3] level 0000000b, 1: 0x00000002 0x00000004 0x00000201 0x00000003
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID[3] level 0000000b, 2: 0x00000000 0x00000000 0x00000002 0x00000003
+2019-09-26T09:32:54.002+08:00| vmx| I125: CPUID Maximum Physical Address Bits supported across all CPUs: 42
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR       0x3a =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x480 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x481 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x482 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x483 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x484 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x485 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x486 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x487 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x488 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x489 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x48a =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x48b =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x48c =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x48d =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x48e =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x48f =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x490 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR      0x491 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR 0xc0010114 =                  0
+2019-09-26T09:32:54.018+08:00| vmx| I125: Common: MSR       0xce =         0x80000000
+2019-09-26T09:32:54.018+08:00| vmx| I125: VMMon_GetkHzEstimate: Calculated 2999999 kHz
+2019-09-26T09:32:54.018+08:00| vmx| I125: HOSTINFO: Host supports constant rate TSC.
+2019-09-26T09:32:54.018+08:00| vmx| I125: TSC kHz estimates: vmmon 2999999, remembered 0, osReported 3000000. Using 2999999 kHz.
+2019-09-26T09:32:54.018+08:00| vmx| I125: TSC first measured delta 268
+2019-09-26T09:32:54.018+08:00| vmx| I125: TSC min delta 137
+2019-09-26T09:32:54.018+08:00| vmx| I125: PTSC: Nested VM: TSCs are synchronized.
+2019-09-26T09:32:54.018+08:00| vmx| I125: PTSC: RefClockToPTSC 0 @ 2929687Hz -> 0 @ 2999999000Hz
+2019-09-26T09:32:54.018+08:00| vmx| I125: PTSC: RefClockToPTSC ((x * 4294966597) >> 22) + -147892825797395
+2019-09-26T09:32:54.018+08:00| vmx| I125: PTSC: tscOffset -147909087840159
+2019-09-26T09:32:54.018+08:00| vmx| I125: PTSC: using TSC
+2019-09-26T09:32:54.018+08:00| vmx| I125: PTSC: hardware TSCs are synchronized.
+2019-09-26T09:32:54.018+08:00| vmx| I125: PTSC: hardware TSCs may have been adjusted by the host.
+2019-09-26T09:32:54.018+08:00| vmx| I125: PTSC: current PTSC=132636
+2019-09-26T09:32:54.096+08:00| vmx| I125: ConfigCheck: No rules file found. Checks are disabled.
+2019-09-26T09:32:54.096+08:00| vmx| I125: changing directory to D:\Windows 7_1\.
+2019-09-26T09:32:54.096+08:00| vmx| I125: Config file: D:\Windows 7_1\Windows 7_1.vmx
+2019-09-26T09:32:54.096+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1875, success=1 additionalError=0
+2019-09-26T09:32:54.096+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=2, newAppState=1878, success=1 additionalError=0
+2019-09-26T09:32:54.096+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:54.096+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users\r): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:54.096+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users\r\AppData): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:54.096+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users\r\AppData\Local): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:54.096+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users\r\AppData\Local\Temp): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:54.096+08:00| vmx| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\Users\r\AppData\Local\Temp\vmware-r): Cannot create a file when that file already exists (183)
+2019-09-26T09:32:54.127+08:00| vmx| A100: ConfigDB: Setting sata0:1.fileName = "auto detect"
+2019-09-26T09:32:54.189+08:00| vmx| I125: VMXVmdbCbVmVmxExecState: Exec state change requested to state poweredOn without reset, soft, softOptionTimeout: 0.
+2019-09-26T09:32:54.189+08:00| vmx| I125: Tools: sending 'OS_Resume' (state = 4) state change request
+2019-09-26T09:32:54.189+08:00| vmx| I125: Tools: Delaying state change request to state 4.
+2019-09-26T09:32:54.189+08:00| vmx| W115: PowerOn
+2019-09-26T09:32:54.189+08:00| vmx| I125: VMX_PowerOn: VMX build 4638234, UI build 4638234
+2019-09-26T09:32:54.189+08:00| vmx| I125: MsgHint: msg.vmx.nestedVM
+2019-09-26T09:32:54.189+08:00| vmx| I125+ Running VMware Workstation in a virtual machine will result in degraded performance. Do you want to continue?---------------------------------------
+2019-09-26T09:32:59.393+08:00| vmx| I125: HostWin32: WIN32 NUMA node 0, CPU mask 0x000000000000000f
+2019-09-26T09:32:59.393+08:00| vmx| I125: HostWin32: WIN32 NUMA node 1, CPU mask 0x0000000000000000
+2019-09-26T09:32:59.408+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1871, success=1 additionalError=0
+2019-09-26T09:32:59.408+08:00| vmx| I125: HOST Windows version 10.0, build 14393, platform 2, "", SMP
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini 
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          printers.enabled = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- NON PERSISTENT
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- USER PREFERENCES C:\Users\r\AppData\Roaming\VMware\preferences.ini 
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.keyboardAndMouse.vmHotKey.enabled = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.keyboardAndMouse.vmHotKey.count = "0"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        pref.hostMRU.count = "1"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        pref.hostMRU0.name = "localhost"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        pref.hostMRU0.type = "vim"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window.count = "1"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.tab.count = "1"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.tab0.dest = ""
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.tab0.file = ""
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.tab0.type = "home"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.tab0.cnxType = "vmdb"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.tab0.focused = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.sidebar = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.sidebar.width = "200"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.statusBar = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.tabs = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.thumbnailBar = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.thumbnailBar.size = "100"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.thumbnailBar.view = "opened-vms"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.placement.left = "324"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.placement.top = "129"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.placement.right = "1584"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.placement.bottom = "866"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT pref.ws.session.window0.maximized = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- USER DEFAULTS C:\Users\r\AppData\Roaming\VMware\config.ini 
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT         authd.client.port = "902"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "22891"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.componentDownloadEnabled = "yes"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled = "no"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled.epoch = "22891"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT         authd.client.port = "902"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "22891"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.componentDownloadEnabled = "yes"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled = "no"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled.epoch = "22891"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- NONPERSISTENT
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT            vmx.stdio.keep = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             gui.available = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- COMMAND LINE
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT            vmx.stdio.keep = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             gui.available = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- RECORDING
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT            vmx.stdio.keep = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             gui.available = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- CONFIGURATION D:\Windows 7_1\Windows 7_1.vmx 
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT            config.version = "8"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT         virtualHW.version = "12"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             scsi0.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          scsi0.virtualDev = "lsisas1068"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             sata0.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT                   memsize = "2048"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT                mem.hotadd = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT           scsi0:0.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          scsi0:0.fileName = "Windows 7_1.vmdk"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT           sata0:1.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          sata0:1.fileName = "auto detect"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        sata0:1.deviceType = "cdrom-raw"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          floppy0.fileType = "device"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          floppy0.fileName = ""
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT      floppy0.clientDevice = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT         ethernet0.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  ethernet0.connectionType = "custom"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT      ethernet0.virtualDev = "e1000"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT   ethernet0.wakeOnPcktRcv = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT     ethernet0.addressType = "generated"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT               usb.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT              ehci.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        ehci.pciSlotNumber = "35"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             sound.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          sound.virtualDev = "hdaudio"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT            sound.fileName = "-1"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          sound.autodetect = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT              mks.enable3d = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT     svga.graphicsMemoryKB = "1048576"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT           serial0.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          serial0.fileType = "thinprint"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        pciBridge0.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        pciBridge4.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT     pciBridge4.virtualDev = "pcieRootPort"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT      pciBridge4.functions = "8"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        pciBridge5.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT     pciBridge5.virtualDev = "pcieRootPort"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT      pciBridge5.functions = "8"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        pciBridge6.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT     pciBridge6.virtualDev = "pcieRootPort"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT      pciBridge6.functions = "8"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        pciBridge7.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT     pciBridge7.virtualDev = "pcieRootPort"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT      pciBridge7.functions = "8"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             vmci0.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             hpet0.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT usb.vbluetooth.startConnected = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT               displayName = "Windows 7_1"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT                   guestOS = "windows7-64"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT                     nvram = "Windows 7_1.nvram"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT virtualHW.productCompatibility = "hosted"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        powerType.powerOff = "soft"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT         powerType.powerOn = "soft"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT         powerType.suspend = "soft"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT           powerType.reset = "soft"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        extendedConfigFile = "Windows 7_1.vmxf"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT   gui.lastPoweredViewMode = "fullscreen"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT numa.autosize.vcpu.maxPerVirtualNode = "1"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT      numa.autosize.cookie = "10001"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT                 uuid.bios = "56 4d 9d 65 76 5d 28 c5-ab fc 1d a8 20 b1 96 cc"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             uuid.location = "56 4d 9d 65 76 5d 28 c5-ab fc 1d a8 20 b1 96 cc"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT           migrate.hostlog = ".\Windows 7_1-cc6c63d7.hlog"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT              scsi0:0.redo = ""
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  pciBridge0.pciSlotNumber = "17"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  pciBridge4.pciSlotNumber = "21"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  pciBridge5.pciSlotNumber = "22"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  pciBridge6.pciSlotNumber = "23"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  pciBridge7.pciSlotNumber = "24"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT       scsi0.pciSlotNumber = "160"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT         usb.pciSlotNumber = "32"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT   ethernet0.pciSlotNumber = "33"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT       sound.pciSlotNumber = "34"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT       vmci0.pciSlotNumber = "36"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT       sata0.pciSlotNumber = "37"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             scsi0.sasWWID = "50 05 05 65 76 5d 28 c0"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT ethernet0.generatedAddress = "00:0C:29:B1:96:CC"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT ethernet0.generatedAddressOffset = "0"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT                  vmci0.id = "548509388"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT    monitor.phys_bits_used = "42"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  vmotion.checkpointFBSize = "33554432"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT vmotion.checkpointSVGAPrimarySize = "33554432"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             cleanShutdown = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT              softPowerOff = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             usb:0.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          usb:0.deviceType = "hid"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT                usb:0.port = "0"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT              usb:0.parent = "-1"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT               usb:1.speed = "2"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT             usb:1.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          usb:1.deviceType = "hub"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT                usb:1.port = "1"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT              usb:1.parent = "-1"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        floppy0.autodetect = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        sata0:1.autodetect = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT            ethernet0.vnet = "VMnet8"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT            tools.syncTime = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT       tools.remindInstall = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT toolsInstallManager.updateCounter = "1"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT toolsInstallManager.lastInstallError = "0"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT svga.guestBackedPrimaryAware = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          unity.wasCapable = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT        checkpoint.vmState = "Windows 7_1-cc6c63d7.vmss"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT isolation.tools.hgfs.disable = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT     sharedFolder0.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT     sharedFolder0.enabled = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  sharedFolder0.readAccess = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT sharedFolder0.writeAccess = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT    sharedFolder0.hostPath = "D:\"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT   sharedFolder0.guestName = "D"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  sharedFolder0.expiration = "never"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT     sharedFolder1.present = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT     sharedFolder1.enabled = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  sharedFolder1.readAccess = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT sharedFolder1.writeAccess = "TRUE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT    sharedFolder1.hostPath = "C:\"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT   sharedFolder1.guestName = "C"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT  sharedFolder1.expiration = "never"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT       sharedFolder.maxNum = "2"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- USER DEFAULTS C:\Users\r\AppData\Roaming\VMware\config.ini 
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT         authd.client.port = "902"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "22891"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.componentDownloadEnabled = "yes"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled = "no"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled.epoch = "22891"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini 
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT         authd.client.port = "902"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled = "no"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "22891"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.componentDownloadEnabled = "yes"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled = "no"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT installerDefaults.dataCollectionEnabled.epoch = "22891"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini 
+2019-09-26T09:32:59.408+08:00| vmx| I125: DICT          printers.enabled = "FALSE"
+2019-09-26T09:32:59.408+08:00| vmx| I125: DUMPER: Restoring checkpoint version 8.
+2019-09-26T09:32:59.408+08:00| vmx| I125: Checkpointed in VMware Workstation, 12.5.2, build-4638234, Windows Host
+2019-09-26T09:32:59.408+08:00| vmx| I125: Resuming virtual machine from D:\Windows 7_1\Windows 7_1-cc6c63d7.vmss with 2048 MB of memory.
+2019-09-26T09:32:59.408+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1873, success=1 additionalError=0
+2019-09-26T09:32:59.426+08:00| vmx| I125: hostCpuFeatures = 0x207d
+2019-09-26T09:32:59.426+08:00| vmx| I125: hostNumGenPerfCounters = 8
+2019-09-26T09:32:59.426+08:00| vmx| I125: hostNumFixedPerfCounters = 0
+2019-09-26T09:32:59.426+08:00| vmx| I125: hostPerfCtrArch = 1
+2019-09-26T09:32:59.426+08:00| vmx| I125: MONITOR MODE: allowed modes          : BT
+2019-09-26T09:32:59.426+08:00| vmx| I125: MONITOR MODE: user requested modes   : BT HV HWMMU
+2019-09-26T09:32:59.426+08:00| vmx| I125: MONITOR MODE: guestOS preferred modes: HWMMU BT HV
+2019-09-26T09:32:59.426+08:00| vmx| I125: MONITOR MODE: filtered list          : BT
+2019-09-26T09:32:59.426+08:00| vmx| I125: MsgHint: msg.monitor.BTnoLM2
+2019-09-26T09:32:59.426+08:00| vmx| I125+ Binary translation is incompatible with long mode on this platform. Long mode will be disabled in this virtual environment and applications requiring long mode will not function properly as a result. See http://vmware.com/info?id=152 for more details.
+2019-09-26T09:32:59.426+08:00| vmx| I125+ ---------------------------------------
+2019-09-26T09:33:03.252+08:00| vmx| I125: HV Settings: virtual exec = 'software'; virtual mmu = 'software'
+2019-09-26T09:33:03.268+08:00| vmx| I125: OvhdMem_PowerOn: initial admission: paged   610769 nonpaged    10832 anonymous     8759
+2019-09-26T09:33:03.268+08:00| vmx| I125: VMMEM: Initial Reservation: 2462MB (MainMem=2048MB)
+2019-09-26T09:33:03.268+08:00| vmx| I125: MemSched_PowerOn: balloon minGuestSize 209715 (80% of min required size 262144)
+2019-09-26T09:33:03.268+08:00| vmx| I125: MemSched: reserved mem (in MB) min 128 max 8784 recommended 8784
+2019-09-26T09:33:03.268+08:00| vmx| I125: MemSched: pg 610769 np 10832 anon 8759 mem 524288
+2019-09-26T09:33:03.301+08:00| vmx| I125: MemSched: numvm 1 locked pages: num 0 max 2240512
+2019-09-26T09:33:03.301+08:00| vmx| I125: MemSched: locked Page Limit: host 2652572 config 2248704 dynam 2336642
+2019-09-26T09:33:03.301+08:00| vmx| I125: MemSched: minmempct 50 minalloc 0 admitted 1
+2019-09-26T09:33:03.301+08:00| vmx| I125: hread 6064 6772VTHREAD start thread 5 "WinNotifyThread" host id 6064
+2019-09-26T09:33:03.301+08:00| WinNotifyThread| I125: WinNotify thread is alive
+2019-09-26T09:33:03.301+08:00| vmx| I125: LICENSE using: 'HKEY_LOCAL_MACHINE\SOFTWARE\VMware, Inc.\VMware Workstation\Dormant\License.ws.12.0.e2.201505' 
+2019-09-26T09:33:03.301+08:00| vmx| I125: hread 2052 6772VTHREAD start thread 6 "vthread-6" host id 2052
+2019-09-26T09:33:03.301+08:00| vmx| I125: PolicyVMXFindPolicyKey: policy file does not exist.
+2019-09-26T09:33:03.301+08:00| vmx| I125: PolicyVMXFindPolicyKey: policy file does not exist.
+2019-09-26T09:33:03.471+08:00| vmx| I125: Host IPI vectors: 0x2f 0. Monitor IPI vector: 0, HV IPI vector: 0
+2019-09-26T09:33:03.471+08:00| vmx| I125: Monitor_PowerOn: HostedVSMP skew tracking is disabled
+2019-09-26T09:33:03.471+08:00| vmx| I125: Monitor64_PowerOn()
+2019-09-26T09:33:03.486+08:00| vmx| I125: Loaded worldswitch: .wsBody64.  Size = 480.
+2019-09-26T09:33:03.486+08:00| vmx| I125: Successfully loaded worldswitch fault handlers from .switchNMI.  Size = 208.
+2019-09-26T09:33:03.486+08:00| vmx| I125: vmm64-modules: [vmm.vmm64, mmu-nohv.vmm64, vprobe-none.vmm64, hv-none.vmm64, gphys-sw.vmm64, callstack-none.vmm64, vmce-none.vmm64, vvtd-none.vmm64, guestIntegrity-none.vmm64, ahci-ahci.vmm64, {SharedAreaReservations} .shared_per_vm_vmx:0x2ac0, {SharedInterVcpuVmxSection}, {SharedInterVcpuSection}, <MonSrcFile>, e1000Shared=0xfffffffffc0c7c00, ahciShared=0xfffffffffc0c7000, ahciRegs=0xfffffffffc0c6000, {UseUnwind}=0x0, hvLoadedAsAddr=0x0, useNPTAsAddr=0x0, numVCPUsAsAddr=0x1, busmemFrameSizeLog2AsAddr=0x4, busmemFrameSizeAsAddr=0x10, {rodataSize}=0x1c2ea, {textAddr}=0xfffffffffc41d000, {textSize}=0x958f6]
+2019-09-26T09:33:03.486+08:00| vmx| I125: vmm64-vcpus:  1
+2019-09-26T09:33:03.486+08:00| vmx| I125: KHZEstimate 2999999
+2019-09-26T09:33:03.486+08:00| vmx| I125: MHZEstimate 3000
+2019-09-26T09:33:03.486+08:00| vmx| I125: NumVCPUs 1
+2019-09-26T09:33:03.486+08:00| vmx| I125: Guest OS (20497) not supported for replay debugging.
+2019-09-26T09:33:03.486+08:00| vmx| I125: MonTimer: host does not have high resolution timers.
+2019-09-26T09:33:03.486+08:00| vmx| I125: UUID: location-UUID is 56 4d 5f 14 d2 f9 93 e2-17 11 83 b5 16 19 74 a6
+2019-09-26T09:33:03.486+08:00| vmx| I125: UUID: location-UUID is 56 4d 9f 30 51 a3 38 a3-2f 02 a1 ee a0 0c 5d ac
+2019-09-26T09:33:03.486+08:00| vmx| I125: UUID: location-UUID is 56 4d 9f 30 51 a3 38 a3-2f 02 a1 ee a0 0c 5d ac
+2019-09-26T09:33:03.486+08:00| vmx| I125: UUID: location-UUID is 56 4d 9f 30 51 a3 38 a3-2f 02 a1 ee a0 0c 5d ac
+2019-09-26T09:33:03.486+08:00| vmx| I125: UUID: location-UUID is 56 4d 9f 30 51 a3 38 a3-2f 02 a1 ee a0 0c 5d ac
+2019-09-26T09:33:03.486+08:00| vmx| I125: Msg_Question:
+2019-09-26T09:33:03.486+08:00| vmx| I125: [msg.uuid.altered] This virtual machine might have been moved or copied.
+2019-09-26T09:33:03.486+08:00| vmx| I125+ In order to configure certain management and networking features, VMware Workstation needs to know if this virtual machine was moved or copied. 
+2019-09-26T09:33:03.486+08:00| vmx| I125+ 
+2019-09-26T09:33:03.486+08:00| vmx| I125+ If you don't know, answer "I Co_pied It".
+2019-09-26T09:33:03.486+08:00| vmx| I125: 
+2019-09-26T09:33:03.486+08:00| vmx| I125: ----------------------------------------
+2019-09-26T09:33:16.799+08:00| vmx| I125: MsgQuestion: msg.uuid.altered reply=2
+2019-09-26T09:33:16.799+08:00| vmx| I125: UUID: Writing uuid.bios value: '56 4d 9f 30 51 a3 38 a3-2f 02 a1 ee a0 0c 5d ac'
+2019-09-26T09:33:16.799+08:00| vmx| A100: ConfigDB: Setting uuid.bios = "56 4d 9f 30 51 a3 38 a3-2f 02 a1 ee a0 0c 5d ac"
+2019-09-26T09:33:16.799+08:00| vmx| I125: UUID: Writing uuid.location value: '56 4d 9f 30 51 a3 38 a3-2f 02 a1 ee a0 0c 5d ac'
+2019-09-26T09:33:16.799+08:00| vmx| A100: ConfigDB: Setting uuid.location = "56 4d 9f 30 51 a3 38 a3-2f 02 a1 ee a0 0c 5d ac"
+2019-09-26T09:33:16.799+08:00| vmx| I125: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Windows 7_1\Windows 7_1.vmx~): The system cannot find the file specified (2)
+2019-09-26T09:33:16.862+08:00| vmx| I125: AIOGNRC: numThreads=17 ide=0, scsi=1, passthru=0
+2019-09-26T09:33:16.862+08:00| vmx| I125: WORKER: Creating new group with numThreads=17 (17)
+2019-09-26T09:33:16.862+08:00| vmx| I125: WORKER: Creating new group with numThreads=1 (18)
+2019-09-26T09:33:16.862+08:00| vmx| I125: MainMem: CPT Host WZ=0 PF=2048 D=0
+2019-09-26T09:33:16.862+08:00| vmx| I125: MainMem: CPT PLS=1 PLR=1 BS=1 BlkP=32 Mult=4 W=50
+2019-09-26T09:33:16.862+08:00| vmx| I125: MStat: Creating Stat vm.uptime
+2019-09-26T09:33:16.862+08:00| vmx| I125: MStat: Creating Stat vm.suspendTime
+2019-09-26T09:33:16.862+08:00| vmx| I125: MStat: Creating Stat vm.powerOnTimeStamp
+2019-09-26T09:33:16.862+08:00| vmx| I125: hread 6796 6772VMXAIOMGR: Using: simple=Generic unbuf=Compl
+2019-09-26T09:33:16.862+08:00| aioCompletion| I125: VTHREAD start thread 7 "aioCompletion" host id 6796
+2019-09-26T09:33:16.877+08:00| vmx| I125: WORKER: Creating new group with numThreads=1 (19)
+2019-09-26T09:33:16.877+08:00| vmx| I125: WORKER: Creating new group with numThreads=16 (35)
+2019-09-26T09:33:16.877+08:00| vmx| I125: MigrateResetStaleVMDBHostLog: Hostlog .\Windows 7_1-cc6c63d7.hlog doesn't exist.
+2019-09-26T09:33:16.877+08:00| vmx| I125: MigrateBusMemPrealloc: BusMem preallocation begins.
+2019-09-26T09:33:16.877+08:00| vmx| I125: MigrateBusMemPrealloc: BusMem preallocation completes.
+2019-09-26T09:33:16.877+08:00| vmx| I125: TimeTracker host to guest rate conversion 68593162904 @ 2999999000Hz -> 0 @ 2999999000Hz
+2019-09-26T09:33:16.877+08:00| vmx| I125: TimeTracker host to guest rate conversion ((x * 2147483648) >> 31) + -68593162904
+2019-09-26T09:33:16.877+08:00| vmx| I125: Disabling TSC scaling since host does not support it.
+2019-09-26T09:33:16.877+08:00| vmx| I125: TSC offsetting enabled.
+2019-09-26T09:33:16.877+08:00| vmx| I125: timeTracker.globalProgressMaxAllowanceMS: 2000
+2019-09-26T09:33:16.877+08:00| vmx| I125: timeTracker.globalProgressToAllowanceNS: 1000
+2019-09-26T09:33:16.877+08:00| vmx| A100: ConfigDB: Setting scsi0:0.redo = ""
+2019-09-26T09:33:16.877+08:00| vmx| I125: DISK: OPEN scsi0:0 'D:\Windows 7_1\Windows 7_1.vmdk' 永久 R[]
+2019-09-26T09:33:16.909+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [0]: "Windows 7_1-s001.vmdk" (0xa)
+2019-09-26T09:33:16.925+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [1]: "Windows 7_1-s002.vmdk" (0xa)
+2019-09-26T09:33:16.971+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [2]: "Windows 7_1-s003.vmdk" (0xa)
+2019-09-26T09:33:17.018+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [3]: "Windows 7_1-s004.vmdk" (0xa)
+2019-09-26T09:33:17.018+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [4]: "Windows 7_1-s005.vmdk" (0xa)
+2019-09-26T09:33:17.127+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [5]: "Windows 7_1-s006.vmdk" (0xa)
+2019-09-26T09:33:17.159+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [6]: "Windows 7_1-s007.vmdk" (0xa)
+2019-09-26T09:33:17.174+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [7]: "Windows 7_1-s008.vmdk" (0xa)
+2019-09-26T09:33:17.190+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [8]: "Windows 7_1-s009.vmdk" (0xa)
+2019-09-26T09:33:17.221+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [9]: "Windows 7_1-s010.vmdk" (0xa)
+2019-09-26T09:33:17.221+08:00| vmx| I125: DISKLIB-DSCPTR: Opened [10]: "Windows 7_1-s011.vmdk" (0xa)
+2019-09-26T09:33:17.221+08:00| vmx| I125: DISKLIB-LINK  : Opened 'D:\Windows 7_1\Windows 7_1.vmdk' (0xa): twoGbMaxExtentSparse, 83886080 sectors / 40 GB.
+2019-09-26T09:33:17.221+08:00| vmx| I125: DISKLIB-LIB   : Opened "D:\Windows 7_1\Windows 7_1.vmdk" (flags 0xa, type twoGbMaxExtentSparse).
+2019-09-26T09:33:17.221+08:00| vmx| I125: DiskGetGeometry: Reading of disk partition table
+2019-09-26T09:33:17.221+08:00| vmx| I125: DISK: Disk 'D:\Windows 7_1\Windows 7_1.vmdk' has UUID '60 00 c2 97 db 61 e6 bd-fa 94 5b 17 00 f9 12 98'
+2019-09-26T09:33:17.221+08:00| vmx| I125: DISK: OPEN 'D:\Windows 7_1\Windows 7_1.vmdk' Geo (5221/255/63) BIOS Geo (5221/255/63)
+2019-09-26T09:33:17.284+08:00| vmx| I125: DISKUTILWIN32: DiskUtilW32IsATASSDDevice: Failed to send ATA IDENTIFY command to the target device.
+2019-09-26T09:33:17.284+08:00| vmx| I125: DISKUTILWIN32: DiskUtilW32IsScsiSSDDevice: Reported rotation rate = 0
+2019-09-26T09:33:17.284+08:00| vmx| I125: DISK: Opening disks took 406 ms.
+2019-09-26T09:33:17.284+08:00| vmx| I125: USB: Initializing 'Virtual Hub' backend
+2019-09-26T09:33:17.284+08:00| vmx| I125: USB: Initializing 'Generic' backend
+2019-09-26T09:33:17.284+08:00| vmx| I125: USB: Initializing 'Virtual HID' backend
+2019-09-26T09:33:17.284+08:00| vmx| I125: hread 6520 6772USB: Initializing 'Remote Device' backend
+2019-09-26T09:33:17.284+08:00| vmx| I125: RemoteUSBVMX: Retrieved hostId [56 4d 6c 66 21 3e d3 29-1a bc 6c da a6 9f 03 62]
+2019-09-26T09:33:17.284+08:00| sensorThread| I125: VTHREAD start thread 8 "sensorThread" host id 6520
+2019-09-26T09:33:17.284+08:00| vmx| I125: RemoteUSBVMX: Protocol version min:15 current:16
+2019-09-26T09:33:17.284+08:00| vmx| I125: RemoteUSBVMX: no delay setting is TRUE.
+2019-09-26T09:33:17.284+08:00| vmx| I125: USB: Initializing 'Virtual Mass Storage' backend
+2019-09-26T09:33:17.284+08:00| vmx| I125: USB: Initializing 'Virtual CCID' backend
+2019-09-26T09:33:17.331+08:00| vmx| I125: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2019-09-26T09:33:17.346+08:00| vmx| I125: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2019-09-26T09:33:17.346+08:00| vmx| I125: hread 840 6772USB: Initializing 'Virtual Bluetooth' backend
+2019-09-26T09:33:17.346+08:00| vmx| I125: USB: Initializing 'Virtual Audio' backend
+2019-09-26T09:33:17.346+08:00| vmx| I125: USB: Initializing 'Virtual Video' backend
+2019-09-26T09:33:17.346+08:00| vmx| I125: USBGW: Skipping disk backing for file (D:\Windows 7_1\Windows 7_1.vmx).
+2019-09-26T09:33:17.346+08:00| vmx| I125: USBGW: Skipping disk backing for file (D:\Windows 7_1\Windows 7_1.vmdk).
+2019-09-26T09:33:17.346+08:00| vmx| I125: USBGW: Skipping disk backing for file (D:\Windows 7_1\Windows 7_1.vmsd).
+2019-09-26T09:33:17.346+08:00| vmx| I125: USBGW: Skipping disk backing for file (D:\Windows 7_1\Windows 7_1.nvram).
+2019-09-26T09:33:17.346+08:00| vmx| I125: MKS PowerOn
+2019-09-26T09:33:17.346+08:00| usbCCIDEnumCards| I125: VTHREAD start thread 9 "usbCCIDEnumCards" host id 840
+2019-09-26T09:33:17.346+08:00| usbCCIDEnumCards| I125: USB-CCID: Card enum thread created.
+2019-09-26T09:33:17.346+08:00| vmx| I125: hread 2920 6772VTHREAD start thread 2 "mks" host id 2920
+2019-09-26T09:33:17.346+08:00| mks| I125: MKS thread is alive
+2019-09-26T09:33:17.346+08:00| mks| I125: SOUNDLIB: Creating the Wave sound backend.
+2019-09-26T09:33:17.362+08:00| mks| I125: hread 7760 6772VTHREAD start thread 10 "mouse" host id 7760
+2019-09-26T09:33:17.362+08:00| mks| I125: hread 5516 6772VTHREAD start thread 11 "kbh" host id 5516
+2019-09-26T09:33:17.362+08:00| mks| I125: MKS Win32: Registering top level window (0x150456) to receive session change notification.
+2019-09-26T09:33:17.362+08:00| mks| I125: MKS-RenderMain: RenderMain: PowerOn allowed DX11Renderer MKSBasicOps 
+2019-09-26T09:33:17.362+08:00| mks| I125: MKS-RenderMain: Collecting RenderOps caps from DX11Renderer
+2019-09-26T09:33:17.362+08:00| mks| W115: DX11Renderer: Enumerating adapter 0
+2019-09-26T09:33:17.362+08:00| mks| W115: DX11Renderer: `Microsoft Basic Render Driver` vendor=0x1414 device=0x008c revision=0
+2019-09-26T09:33:17.362+08:00| mks| W115: DX11Renderer: video=0MB system=0MB shared=5405MB
+2019-09-26T09:33:17.362+08:00| mks| W115: DX11Renderer: Successfully created a device
+2019-09-26T09:33:17.362+08:00| mks| W115: DX11Renderer: Enumerating adapter 1
+2019-09-26T09:33:17.362+08:00| mks| W115: DX11Renderer: `Microsoft Basic Render Driver` vendor=0x1414 device=0x008c revision=0
+2019-09-26T09:33:17.362+08:00| mks| W115: DX11Renderer: video=0MB system=0MB shared=5405MB
+2019-09-26T09:33:17.362+08:00| mks| I125: Started Shim3D
+2019-09-26T09:33:17.362+08:00| mks| I125: Stopped Shim3D
+2019-09-26T09:33:17.362+08:00| mks| I125: MKS-RenderMain: Found 3D RenderOps capable backend DX11Renderer
+2019-09-26T09:33:17.362+08:00| mks| I125: MKS-RenderMain: Starting MKSBasicOps
+2019-09-26T09:33:17.362+08:00| mks| I125: KHBKL: Unable to parse keystring at: ''
+2019-09-26T09:33:17.362+08:00| mks| I125: MKS-RemoteMgr: Set default display name: Windows 7_1
+2019-09-26T09:33:17.362+08:00| mks| I125: MKS-RemoteMgr: Loading VNC Configuration from VM config file
+2019-09-26T09:33:17.362+08:00| mks| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:33:17.362+08:00| mks| I125: FILE: FileCreateDirectoryRetry: Non-retriable error encountered (C:\ProgramData\VMware): Cannot create a file when that file already exists (183)
+2019-09-26T09:33:17.362+08:00| vmx| I125: VLANCE: send cluster threshold is 80, size = 2 recalcInterval is 2 ticks
+2019-09-26T09:33:17.362+08:00| vmx| I125: VMXNET: send cluster threshold is 80, size = 2 recalcInterval is 2 ticks, dontClusterSize is 128
+2019-09-26T09:33:17.362+08:00| vmx| I125: Chipset version: 0x13
+2019-09-26T09:33:17.377+08:00| usbCCIDEnumCards| I125: USB-CCID: Could not establish context: SCARD_E_NO_SERVICE(0x8010001d).
+2019-09-26T09:33:17.377+08:00| vmx| A100: ConfigDB: Setting pciBridge4.pciSlotNumber = "-1"
+2019-09-26T09:33:17.377+08:00| vmx| A100: ConfigDB: Setting pciBridge5.pciSlotNumber = "-1"
+2019-09-26T09:33:17.377+08:00| vmx| A100: ConfigDB: Setting pciBridge6.pciSlotNumber = "-1"
+2019-09-26T09:33:17.377+08:00| vmx| A100: ConfigDB: Setting pciBridge7.pciSlotNumber = "-1"
+2019-09-26T09:33:17.377+08:00| vmx| A100: ConfigDB: Setting pciBridge4.pciSlotNumber = "21"
+2019-09-26T09:33:17.377+08:00| vmx| A100: ConfigDB: Setting pciBridge5.pciSlotNumber = "22"
+2019-09-26T09:33:17.377+08:00| vmx| A100: ConfigDB: Setting pciBridge6.pciSlotNumber = "23"
+2019-09-26T09:33:17.377+08:00| vmx| A100: ConfigDB: Setting pciBridge7.pciSlotNumber = "24"
+2019-09-26T09:33:17.377+08:00| vmx| I125: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Windows 7_1\Windows 7_1.vmx~): The system cannot find the file specified (2)
+2019-09-26T09:33:17.440+08:00| vmx| I125: SCSI: scsi0: intr coalescing: on period=50msec cifTh=4 iopsTh=2000 hlt=0
+2019-09-26T09:33:17.440+08:00| vmx| I125: SCSI0: UNTAGGED commands will be converted to ORDER tags.
+2019-09-26T09:33:17.440+08:00| vmx| I125: SCSI DEVICE (scsi0:0): Computed value of scsi0:0.useBounceBuffers: default
+2019-09-26T09:33:17.440+08:00| vmx| I125: DISKUTIL: scsi0:0 : capacity=83886080 logical sector size=512
+2019-09-26T09:33:17.440+08:00| vmx| I125: DISKUTIL: scsi0:0 : geometry=5221/255/63
+2019-09-26T09:33:17.440+08:00| vmx| I125: SVGA-GFB: Initial gfbSize=33554432
+2019-09-26T09:33:17.440+08:00| vmx| I125: SVGA: Number of displays 2
+2019-09-26T09:33:17.440+08:00| vmx| I125: SVGA: Maximum display topology 3840x1920.
+2019-09-26T09:33:17.440+08:00| vmx| I125: SVGA: FIFO capabilities 0x0000077f
+2019-09-26T09:33:17.440+08:00| vmx| I125: SVGA: Device capabilities 0x1dffc3e2
+2019-09-26T09:33:17.440+08:00| vmx| I125: SVGA3dCaps: host, at power on
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[  0]: 0x00000001 (3D)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[  1]: 0x00000008 (MAX_LIGHTS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[  2]: 0x00000008 (MAX_TEXTURES)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[  3]: 0x00000008 (MAX_CLIP_PLANES)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[  4]: 0x00000007 (VERTEX_SHADER_VERSION)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[  5]: 0x00000001 (VERTEX_SHADER)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[  6]: 0x0000000d (FRAGMENT_SHADER_VERSION)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[  7]: 0x00000001 (FRAGMENT_SHADER)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[  8]: 0x00000008 (MAX_RENDER_TARGETS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[  9]: 0x00000001 (S23E8_TEXTURES)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 10]: 0x00000001 (S10E5_TEXTURES)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 11]: 0x00000004 (MAX_FIXED_VERTEXBLEND)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 12]: 0x00000001 (D16_BUFFER_FORMAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 13]: 0x00000001 (D24S8_BUFFER_FORMAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 14]: 0x00000001 (D24X8_BUFFER_FORMAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 15]: 0x00000001 (QUERY_TYPES)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 16]: 0x00000001 (TEXTURE_GRADIENT_SAMPLING)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 17]:   1.000000 (MAX_POINT_SIZE)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 18]: 0x00000014 (MAX_SHADER_TEXTURES)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 19]: 0x00004000 (MAX_TEXTURE_WIDTH)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 20]: 0x00004000 (MAX_TEXTURE_HEIGHT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 21]: 0x00000800 (MAX_VOLUME_EXTENT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 22]: 0x00000800 (MAX_TEXTURE_REPEAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 23]: 0x00000800 (MAX_TEXTURE_ASPECT_RATIO)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 24]: 0x00000010 (MAX_TEXTURE_ANISOTROPY)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 25]: 0x001fffff (MAX_PRIMITIVE_COUNT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 26]: 0x000fffff (MAX_VERTEX_INDEX)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 27]: 0x0000ffff (MAX_VERTEX_SHADER_INSTRUCTIONS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 28]: 0x0000ffff (MAX_FRAGMENT_SHADER_INSTRUCTIONS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 29]: 0x00000020 (MAX_VERTEX_SHADER_TEMPS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 30]: 0x00000020 (MAX_FRAGMENT_SHADER_TEMPS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 31]: 0x03ffffff (TEXTURE_OPS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 32]: 0x0018ec1f (SURFACEFMT_X8R8G8B8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 33]: 0x0018e11f (SURFACEFMT_A8R8G8B8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 34]: 0x0008601f (SURFACEFMT_A2R10G10B10)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 35]: 0x0018e01f (SURFACEFMT_X1R5G5B5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 36]: 0x0018e11f (SURFACEFMT_A1R5G5B5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 37]: 0x0010e11f (SURFACEFMT_A4R4G4B4)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 38]: 0x0018ec1f (SURFACEFMT_R5G6B5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 39]: 0x00006007 (SURFACEFMT_LUMINANCE16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 40]: 0x00006007 (SURFACEFMT_LUMINANCE8_ALPHA8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 41]: 0x00006007 (SURFACEFMT_ALPHA8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 42]: 0x00006007 (SURFACEFMT_LUMINANCE8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 43]: 0x000040c5 (SURFACEFMT_Z_D16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 44]: 0x000040c5 (SURFACEFMT_Z_D24S8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 45]: 0x000040c5 (SURFACEFMT_Z_D24X8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 46]: 0x0000e005 (SURFACEFMT_DXT1)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 47]: 0x0000e005 (SURFACEFMT_DXT2)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 48]: 0x0000e005 (SURFACEFMT_DXT3)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 49]: 0x0000e005 (SURFACEFMT_DXT4)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 50]: 0x0000e005 (SURFACEFMT_DXT5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 51]: 0x00014007 (SURFACEFMT_BUMPX8L8V8U8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 52]: 0x00014007 (SURFACEFMT_A2W10V10U10)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 53]: 0x00014007 (SURFACEFMT_BUMPU8V8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 54]: 0x00014007 (SURFACEFMT_Q8W8V8U8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 55]: 0x00014007 (SURFACEFMT_CxV8U8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 56]: 0x0090e01f (SURFACEFMT_R_S10E5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 57]: 0x0090e01f (SURFACEFMT_R_S23E8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 58]: 0x0090e01f (SURFACEFMT_RG_S10E5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 59]: 0x0090e01f (SURFACEFMT_RG_S23E8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 60]: 0x0090e01f (SURFACEFMT_ARGB_S10E5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 61]: 0x0090e01f (SURFACEFMT_ARGB_S23E8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 62]: 0x00000000 (MISSING62)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 63]: 0x00000010 (MAX_VERTEX_SHADER_TEXTURES)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 64]: 0x00000008 (MAX_SIMULTANEOUS_RENDER_TARGETS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 65]: 0x00014007 (SURFACEFMT_V16U16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 66]: 0x0000601f (SURFACEFMT_G16R16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 67]: 0x0000601f (SURFACEFMT_A16B16G16R16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 68]: 0x01246000 (SURFACEFMT_UYVY)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 69]: 0x01246000 (SURFACEFMT_YUY2)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 70]: 0x00000000 (MULTISAMPLE_NONMASKABLESAMPLES)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 71]: 0x00000000 (MULTISAMPLE_MASKABLESAMPLES)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 72]: 0x00000001 (ALPHATOCOVERAGE)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 73]: 0x00000000 (SUPERSAMPLE)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 74]: 0x00000001 (AUTOGENMIPMAPS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 75]: 0x01246000 (SURFACEFMT_NV12)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 76]: 0x01044000 (SURFACEFMT_AYUV)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 77]: 0x00000100 (MAX_CONTEXT_IDS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 78]: 0x00008000 (MAX_SURFACE_IDS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 79]: 0x00000000 (SURFACEFMT_Z_DF16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 80]: 0x00000000 (SURFACEFMT_Z_DF24)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 81]: 0x000040c5 (SURFACEFMT_Z_D24S8_INT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 82]: 0x00006005 (SURFACEFMT_ATI1)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 83]: 0x00006005 (SURFACEFMT_ATI2)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 84]: 0x00000000 (DEAD1)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 85]: 0x00000000 (VIDEO_DECODE)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 86]: 0x00000000 (VIDEO_PROCESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 87]: 0x00000000 (LINE_AA)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 88]: 0x00000000 (LINE_STIPPLE)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 89]:   1.000000 (MAX_LINE_WIDTH)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 90]:   0.000000 (MAX_AA_LINE_WIDTH)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 91]: 0x01246000 (SURFACEFMT_YV12)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 92]: 0x00000001 (LOGICOPS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 93]: 0x00000001 (TS_COLOR_KEY)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 94]: 0x00000000 (DEAD2)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 95]: 0x00000001 (DXCONTEXT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 96]: 0x00000200 (MAX_TEXTURE_ARRAY_SIZE)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 97]: 0x00000010 (DX_MAX_VERTEXBUFFERS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 98]: 0x0000000d (DX_MAX_CONSTANT_BUFFERS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[ 99]: 0x00000000 (DX_PROVOKING_VERTEX)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[100]: 0x000000f7 (DXFMT_X8R8G8B8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[101]: 0x000001f7 (DXFMT_A8R8G8B8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[102]: 0x000000f7 (DXFMT_R5G6B5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[103]: 0x000000f7 (DXFMT_X1R5G5B5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[104]: 0x000000f7 (DXFMT_A1R5G5B5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[105]: 0x000000f7 (DXFMT_A4R4G4B4)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[106]: 0x00000009 (DXFMT_Z_D32)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[107]: 0x0000006b (DXFMT_Z_D16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[108]: 0x0000006b (DXFMT_Z_D24S8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[109]: 0x0000000b (DXFMT_Z_D15S1)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[110]: 0x000000e3 (DXFMT_LUMINANCE8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[111]: 0x000000e3 (DXFMT_LUMINANCE4_ALPHA4)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[112]: 0x000000e3 (DXFMT_LUMINANCE16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[113]: 0x000000e3 (DXFMT_LUMINANCE8_ALPHA8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[114]: 0x00000063 (DXFMT_DXT1)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[115]: 0x00000063 (DXFMT_DXT2)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[116]: 0x00000063 (DXFMT_DXT3)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[117]: 0x00000063 (DXFMT_DXT4)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[118]: 0x00000063 (DXFMT_DXT5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[119]: 0x000000e3 (DXFMT_BUMPU8V8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[120]: 0x00000000 (DXFMT_BUMPL6V5U5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[121]: 0x000000e3 (DXFMT_BUMPX8L8V8U8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[122]: 0x00000000 (DXFMT_FORMAT_DEAD1)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[123]: 0x000001f7 (DXFMT_ARGB_S10E5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[124]: 0x000001f7 (DXFMT_ARGB_S23E8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[125]: 0x000001f7 (DXFMT_A2R10G10B10)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[126]: 0x000000e3 (DXFMT_V8U8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[127]: 0x000000e3 (DXFMT_Q8W8V8U8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[128]: 0x000000e3 (DXFMT_CxV8U8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[129]: 0x000000e3 (DXFMT_X8L8V8U8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[130]: 0x000000e3 (DXFMT_A2W10V10U10)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[131]: 0x000000e3 (DXFMT_ALPHA8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[132]: 0x000001f7 (DXFMT_R_S10E5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[133]: 0x000001f7 (DXFMT_R_S23E8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[134]: 0x000001f7 (DXFMT_RG_S10E5)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[135]: 0x000001f7 (DXFMT_RG_S23E8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[136]: 0x00000001 (DXFMT_BUFFER)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[137]: 0x0000006b (DXFMT_Z_D24X8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[138]: 0x000001e3 (DXFMT_V16U16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[139]: 0x000001f7 (DXFMT_G16R16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[140]: 0x000001f7 (DXFMT_A16B16G16R16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[141]: 0x00000001 (DXFMT_UYVY)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[142]: 0x00000001 (DXFMT_YUY2)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[143]: 0x00000001 (DXFMT_NV12)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[144]: 0x00000001 (DXFMT_AYUV)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[145]: 0x000000e1 (DXFMT_R32G32B32A32_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[146]: 0x000001e7 (DXFMT_R32G32B32A32_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[147]: 0x000001e7 (DXFMT_R32G32B32A32_SINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[148]: 0x000000e1 (DXFMT_R32G32B32_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[149]: 0x000001e3 (DXFMT_R32G32B32_FLOAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[150]: 0x000001e3 (DXFMT_R32G32B32_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[151]: 0x000001e3 (DXFMT_R32G32B32_SINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[152]: 0x000000e1 (DXFMT_R16G16B16A16_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[153]: 0x000001e7 (DXFMT_R16G16B16A16_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[154]: 0x000001e7 (DXFMT_R16G16B16A16_SNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[155]: 0x000001e7 (DXFMT_R16G16B16A16_SINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[156]: 0x000000e1 (DXFMT_R32G32_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[157]: 0x000001e7 (DXFMT_R32G32_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[158]: 0x000001e7 (DXFMT_R32G32_SINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[159]: 0x00000061 (DXFMT_R32G8X24_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[160]: 0x00000069 (DXFMT_D32_FLOAT_S8X24_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[161]: 0x00000061 (DXFMT_R32_FLOAT_X8X24_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[162]: 0x00000061 (DXFMT_X32_TYPELESS_G8X24_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[163]: 0x000000e1 (DXFMT_R10G10B10A2_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[164]: 0x000001e7 (DXFMT_R10G10B10A2_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[165]: 0x000001f7 (DXFMT_R11G11B10_FLOAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[166]: 0x000000e1 (DXFMT_R8G8B8A8_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[167]: 0x000001f7 (DXFMT_R8G8B8A8_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[168]: 0x000000f7 (DXFMT_R8G8B8A8_UNORM_SRGB)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[169]: 0x000001e7 (DXFMT_R8G8B8A8_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[170]: 0x000001e7 (DXFMT_R8G8B8A8_SINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[171]: 0x000000e1 (DXFMT_R16G16_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[172]: 0x000001e7 (DXFMT_R16G16_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[173]: 0x000001e7 (DXFMT_R16G16_SINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[174]: 0x000000e1 (DXFMT_R32_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[175]: 0x00000069 (DXFMT_D32_FLOAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[176]: 0x000001e7 (DXFMT_R32_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[177]: 0x000001e7 (DXFMT_R32_SINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[178]: 0x00000061 (DXFMT_R24G8_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[179]: 0x00000069 (DXFMT_D24_UNORM_S8_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[180]: 0x00000061 (DXFMT_R24_UNORM_X8_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[181]: 0x00000061 (DXFMT_X24_TYPELESS_G8_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[182]: 0x000000e1 (DXFMT_R8G8_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[183]: 0x000001f7 (DXFMT_R8G8_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[184]: 0x000001e7 (DXFMT_R8G8_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[185]: 0x000001e7 (DXFMT_R8G8_SINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[186]: 0x000000e1 (DXFMT_R16_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[187]: 0x000001f7 (DXFMT_R16_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[188]: 0x000001e7 (DXFMT_R16_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[189]: 0x000001e7 (DXFMT_R16_SNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[190]: 0x000001e7 (DXFMT_R16_SINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[191]: 0x000000e1 (DXFMT_R8_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[192]: 0x000001f7 (DXFMT_R8_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[193]: 0x000001e7 (DXFMT_R8_UINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[194]: 0x000001e7 (DXFMT_R8_SNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[195]: 0x000001e7 (DXFMT_R8_SINT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[196]: 0x00000001 (DXFMT_P8)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[197]: 0x000000e3 (DXFMT_R9G9B9E5_SHAREDEXP)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[198]: 0x000000e3 (DXFMT_R8G8_B8G8_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[199]: 0x000000e3 (DXFMT_G8R8_G8B8_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[200]: 0x000000e1 (DXFMT_BC1_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[201]: 0x000000e3 (DXFMT_BC1_UNORM_SRGB)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[202]: 0x000000e1 (DXFMT_BC2_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[203]: 0x000000e3 (DXFMT_BC2_UNORM_SRGB)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[204]: 0x000000e1 (DXFMT_BC3_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[205]: 0x000000e3 (DXFMT_BC3_UNORM_SRGB)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[206]: 0x000000e1 (DXFMT_BC4_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[207]: 0x00000063 (DXFMT_ATI1)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[208]: 0x000000e3 (DXFMT_BC4_SNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[209]: 0x000000e1 (DXFMT_BC5_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[210]: 0x00000063 (DXFMT_ATI2)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[211]: 0x000000e3 (DXFMT_BC5_SNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[212]: 0x00000000 (DXFMT_R10G10B10_XR_BIAS_A2_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[213]: 0x000000e1 (DXFMT_B8G8R8A8_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[214]: 0x000000f7 (DXFMT_B8G8R8A8_UNORM_SRGB)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[215]: 0x000000e1 (DXFMT_B8G8R8X8_TYPELESS)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[216]: 0x000000f7 (DXFMT_B8G8R8X8_UNORM_SRGB)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[217]: 0x00000000 (DXFMT_Z_DF16)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[218]: 0x00000000 (DXFMT_Z_DF24)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[219]: 0x0000006b (DXFMT_Z_D24S8_INT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[220]: 0x00000001 (DXFMT_YV12)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[221]: 0x000001f7 (DXFMT_R32G32B32A32_FLOAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[222]: 0x000001f7 (DXFMT_R16G16B16A16_FLOAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[223]: 0x000001f7 (DXFMT_R16G16B16A16_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[224]: 0x000001f7 (DXFMT_R32G32_FLOAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[225]: 0x000001f7 (DXFMT_R10G10B10A2_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[226]: 0x000001e7 (DXFMT_R8G8B8A8_SNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[227]: 0x000001f7 (DXFMT_R16G16_FLOAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[228]: 0x000001f7 (DXFMT_R16G16_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[229]: 0x000001e7 (DXFMT_R16G16_SNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[230]: 0x000001f7 (DXFMT_R32_FLOAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[231]: 0x000001e7 (DXFMT_R8G8_SNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[232]: 0x000001f7 (DXFMT_R16_FLOAT)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[233]: 0x00000069 (DXFMT_D16_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[234]: 0x000000f7 (DXFMT_A8_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[235]: 0x000000e3 (DXFMT_BC1_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[236]: 0x000000e3 (DXFMT_BC2_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[237]: 0x000000e3 (DXFMT_BC3_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[238]: 0x000000f7 (DXFMT_B5G6R5_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[239]: 0x000000f7 (DXFMT_B5G5R5A1_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[240]: 0x000001f7 (DXFMT_B8G8R8A8_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[241]: 0x000000f7 (DXFMT_B8G8R8X8_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[242]: 0x000000e3 (DXFMT_BC4_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125:   cap[243]: 0x000000e3 (DXFMT_BC5_UNORM)
+2019-09-26T09:33:17.440+08:00| vmx| I125: hread 5432 6772USB: Initializing 'UHCI' host controller
+2019-09-26T09:33:17.440+08:00| vmx| A100: ConfigDB: Setting usb:0.present = "TRUE"
+2019-09-26T09:33:17.440+08:00| vmx| A100: ConfigDB: Setting usb:0.deviceType = "hid"
+2019-09-26T09:33:17.440+08:00| vmx| A100: ConfigDB: Setting usb:0.port = "0"
+2019-09-26T09:33:17.440+08:00| vmx| A100: ConfigDB: Setting usb:0.parent = "-1"
+2019-09-26T09:33:17.440+08:00| svga| I125: VTHREAD start thread 1 "svga" host id 5432
+2019-09-26T09:33:17.456+08:00| vmx| A100: ConfigDB: Setting usb:1.speed = "2"
+2019-09-26T09:33:17.456+08:00| vmx| A100: ConfigDB: Setting ethernet0.generatedAddress = "00:0c:29:0c:5d:ac"
+2019-09-26T09:33:17.456+08:00| vmx| A100: ConfigDB: Setting ethernet0.generatedAddressOffset = "0"
+2019-09-26T09:33:17.456+08:00| vmx| I125: Ethernet0 MAC Address: 00:0c:29:0c:5d:ac
+2019-09-26T09:33:17.456+08:00| vmx| I125: FILE: FileDeletionRetry: Non-retriable error encountered (D:\Windows 7_1\Windows 7_1.vmx~): The system cannot find the file specified (2)
+2019-09-26T09:33:17.487+08:00| vmx| I125: USB: Initializing 'EHCI' host controller
+2019-09-26T09:33:17.487+08:00| vmx| A100: ConfigDB: Setting vmci0.id = "548509388"
+2019-09-26T09:33:17.502+08:00| vmx| I125: AHCI:Successfully created adapter 'sata0' as num 0
+2019-09-26T09:33:17.502+08:00| vmx| I125: SCSI DEVICE (sata0:1): Computed value of sata0:1.useBounceBuffers: default
+2019-09-26T09:33:17.502+08:00| vmx| I125: DISKUTIL: sata0:1 : capacity=0 logical sector size=2048
+2019-09-26T09:33:17.502+08:00| vmx| I125: DISKUTIL: sata0:1 : geometry=0/0/0
+2019-09-26T09:33:17.502+08:00| vmx| I125: AHCI:Creating ATAPI CDROM on SATA adapter.
+2019-09-26T09:33:17.502+08:00| vmx| I125: AHCI:Successfully created device: sata0:1
+2019-09-26T09:33:17.502+08:00| vmx| I125: WORKER: Creating new group with numThreads=1 (36)
+2019-09-26T09:33:17.502+08:00| vmx| I125: DISKUTIL: scsi0:0 : max toolsVersion = 10250, type = 1
+2019-09-26T09:33:17.502+08:00| vmx| I125: TOOLS setting legacy tools version to '10250' type 1, manifest status is 9
+2019-09-26T09:33:17.502+08:00| vmx| I125: TOOLS INSTALL initializing state to IDLE on power on.
+2019-09-26T09:33:17.502+08:00| Worker#0| I125: GetHostManifests: Extracting the manifest file.
+2019-09-26T09:33:17.502+08:00| Worker#0| I125: GetHostManifests: Done extracting the manifest file.
+2019-09-26T09:33:17.502+08:00| Worker#0| I125: ToolsVersionGetStatusWorkerThread: Tools status 3 derived from environment
+2019-09-26T09:33:17.502+08:00| vmx| I125: FeatureCompat: No VM masks.
+2019-09-26T09:33:17.502+08:00| vmx| I125: MonPmc: ctrBase 0xc1 selBase 0x186/1 PGC 0/0 SMM 0 drain 0 AMD 0
+2019-09-26T09:33:17.502+08:00| vmx| I125+ MonPmc:   gen counters num: 8 width 48 write width 32
+2019-09-26T09:33:17.502+08:00| vmx| I125+ MonPmc:   fix counters num: 0 width 0
+2019-09-26T09:33:17.502+08:00| vmx| I125+ MonPmc:   unavailable counters: 0xff
+2019-09-26T09:33:17.502+08:00| vmx| I125: CPT: Restoring checkpoint D:\Windows 7_1\Windows 7_1-cc6c63d7.vmss
+2019-09-26T09:33:17.502+08:00| vmx| I125: DUMPER: Restoring checkpoint version 8.
+2019-09-26T09:33:17.518+08:00| vmx| I125: VM requirements not satisfied by host:
+2019-09-26T09:33:17.518+08:00| vmx| I125: VM Features Required: cpuid.CMPXCHG16B - Bool:Min:1
+2019-09-26T09:33:17.518+08:00| vmx| I125: VM Features Required: cpuid.LAHF64 - Bool:Min:1
+2019-09-26T09:33:17.518+08:00| vmx| I125: VM Features Required: cpuid.LM - Bool:Min:1
+2019-09-26T09:33:17.518+08:00| vmx| I125: Msg_Question:
+2019-09-26T09:33:17.518+08:00| vmx| I125: [msg.checkpoint.cpucheck.fail.feature] The features supported by the processors in this machine are different from the features supported by the processors in the machine on which the virtual machine state was saved.
+2019-09-26T09:33:17.518+08:00| vmx| I125: [msg.checkpoint.cpucheck.fail.question] You may attempt to resume this virtual machine, but doing so may result in unpredictable behavior. Do you wish to resume this virtual machine?
+2019-09-26T09:33:17.518+08:00| vmx| I125: ----------------------------------------
+2019-09-26T09:33:26.237+08:00| vmx| I125: MsgQuestion: msg.checkpoint.cpucheck.fail.question reply=0
+2019-09-26T09:33:26.252+08:00| vmx| I125: guestCpuFeatures = 0x2079
+2019-09-26T09:33:26.252+08:00| vmx| I125: DUMPER: Item 'csRights' [0, -1] not found.
+2019-09-26T09:33:26.252+08:00| vmx| I125: DUMPER: Item 'paraGuest' [0, -1] not found.
+2019-09-26T09:33:26.252+08:00| vmx| I125: Progress -1% (msg.checkpoint.restoreStatus)
+2019-09-26T09:33:26.252+08:00| vmx| I125:   restoring GuestVars
+2019-09-26T09:33:26.252+08:00| vmx| I125:   restoring BusMemSample
+2019-09-26T09:33:26.252+08:00| vmx| I125:   restoring UUIDVMX
+2019-09-26T09:33:26.252+08:00| vmx| I125:   restoring memory
+2019-09-26T09:33:26.252+08:00| vmx| I125: DUMPER: Item 'MainMemPageZeroStateSize' [-1, -1] not found.
+2019-09-26T09:33:26.284+08:00| vmx| I125: MainMem: Opened paging file, 'D:\Windows 7_1\Windows 7_1-cc6c63d7.vmem'.
+2019-09-26T09:33:26.284+08:00| vmx| I125: MemSched: caller 0 numvm 1 locked pages: num 1589 max 2240512
+2019-09-26T09:33:26.284+08:00| vmx| I125: MemSched: locked Page Limit: host 2652433 config 2248704 dynam 2337390
+2019-09-26T09:33:26.284+08:00| vmx| I125: MemSched: minmempct 50  timestamp 49329
+2019-09-26T09:33:26.284+08:00| vmx| I125: MemSched: VM 0 min 281735 max 543879 shares 524288 paged 610769 nonpaged 10832 anonymous 8759 locked 1589 touchedPct 0 dirtiedPct 0 timestamp 49329 vmResponsive is 1
+2019-09-26T09:33:26.284+08:00| vmx| I125: MemSched: locked 1589 target 543879 balloon 0 0 0 swapped 0 0 allocd 0 512 state 0 100
+2019-09-26T09:33:26.284+08:00| vmx| I125: MemSched: states: 0 1 : 1 0 : 2 0 : 3 0
+2019-09-26T09:33:26.284+08:00| vmx| I125: MemSched: Balloon enabled 1 guestType 0 maxSize 0
+2019-09-26T09:33:26.299+08:00| vmx| I125: Progress 0% (none)
+2019-09-26T09:33:26.346+08:00| vmx| I125: Progress 1% (none)
+2019-09-26T09:33:26.393+08:00| vmx| I125: Progress 2% (none)
+2019-09-26T09:33:26.424+08:00| vmx| I125: Progress 3% (none)
+2019-09-26T09:33:26.471+08:00| vmx| I125: Progress 4% (none)
+2019-09-26T09:33:26.502+08:00| vmx| I125: Progress 5% (none)
+2019-09-26T09:33:26.534+08:00| vmx| I125: Progress 6% (none)
+2019-09-26T09:33:26.581+08:00| vmx| I125: Progress 7% (none)
+2019-09-26T09:33:26.612+08:00| vmx| I125: Progress 8% (none)
+2019-09-26T09:33:26.659+08:00| vmx| I125: Progress 9% (none)
+2019-09-26T09:33:26.690+08:00| vmx| I125: Progress 10% (none)
+2019-09-26T09:33:26.754+08:00| vmx| I125: Progress 11% (none)
+2019-09-26T09:33:26.816+08:00| vmx| I125: Progress 12% (none)
+2019-09-26T09:33:26.863+08:00| vmx| I125: Progress 13% (none)
+2019-09-26T09:33:26.925+08:00| vmx| I125: Progress 14% (none)
+2019-09-26T09:33:26.972+08:00| vmx| I125: Progress 15% (none)
+2019-09-26T09:33:27.004+08:00| vmx| I125: Progress 16% (none)
+2019-09-26T09:33:27.035+08:00| vmx| I125: Progress 17% (none)
+2019-09-26T09:33:27.066+08:00| vmx| I125: Progress 18% (none)
+2019-09-26T09:33:27.113+08:00| vmx| I125: Progress 19% (none)
+2019-09-26T09:33:27.160+08:00| vmx| I125: Progress 20% (none)
+2019-09-26T09:33:27.222+08:00| vmx| I125: Progress 21% (none)
+2019-09-26T09:33:27.285+08:00| vmx| I125: Progress 22% (none)
+2019-09-26T09:33:27.347+08:00| vmx| I125: Progress 23% (none)
+2019-09-26T09:33:27.394+08:00| vmx| I125: Progress 24% (none)
+2019-09-26T09:33:27.457+08:00| vmx| I125: Progress 25% (none)
+2019-09-26T09:33:27.488+08:00| vmx| I125: Progress 26% (none)
+2019-09-26T09:33:27.519+08:00| vmx| I125: Progress 27% (none)
+2019-09-26T09:33:27.566+08:00| vmx| I125: Progress 28% (none)
+2019-09-26T09:33:27.644+08:00| vmx| I125: Progress 29% (none)
+2019-09-26T09:33:27.785+08:00| vmx| I125: Progress 30% (none)
+2019-09-26T09:33:27.832+08:00| vmx| I125: Progress 31% (none)
+2019-09-26T09:33:27.863+08:00| vmx| I125: Progress 32% (none)
+2019-09-26T09:33:27.910+08:00| vmx| I125: Progress 33% (none)
+2019-09-26T09:33:27.925+08:00| vmx| I125: Progress 34% (none)
+2019-09-26T09:33:27.972+08:00| vmx| I125: Progress 35% (none)
+2019-09-26T09:33:28.004+08:00| vmx| I125: Progress 36% (none)
+2019-09-26T09:33:28.082+08:00| vmx| I125: Progress 37% (none)
+2019-09-26T09:33:28.129+08:00| vmx| I125: Progress 38% (none)
+2019-09-26T09:33:28.176+08:00| vmx| I125: Progress 39% (none)
+2019-09-26T09:33:28.207+08:00| vmx| I125: Progress 40% (none)
+2019-09-26T09:33:28.254+08:00| vmx| I125: Progress 41% (none)
+2019-09-26T09:33:28.285+08:00| vmx| I125: Progress 42% (none)
+2019-09-26T09:33:28.332+08:00| vmx| I125: Progress 43% (none)
+2019-09-26T09:33:28.379+08:00| vmx| I125: Progress 44% (none)
+2019-09-26T09:33:28.410+08:00| vmx| I125: Progress 45% (none)
+2019-09-26T09:33:28.457+08:00| vmx| I125: Progress 46% (none)
+2019-09-26T09:33:28.504+08:00| vmx| I125: Progress 47% (none)
+2019-09-26T09:33:28.535+08:00| vmx| I125: Progress 48% (none)
+2019-09-26T09:33:28.629+08:00| vmx| I125: Progress 49% (none)
+2019-09-26T09:33:28.660+08:00| vmx| I125: Progress 50% (none)
+2019-09-26T09:33:28.707+08:00| vmx| I125: Progress 51% (none)
+2019-09-26T09:33:28.801+08:00| vmx| I125: Progress 52% (none)
+2019-09-26T09:33:28.832+08:00| vmx| I125: Progress 53% (none)
+2019-09-26T09:33:28.879+08:00| vmx| I125: Progress 54% (none)
+2019-09-26T09:33:28.926+08:00| vmx| I125: Progress 55% (none)
+2019-09-26T09:33:28.972+08:00| vmx| I125: Progress 56% (none)
+2019-09-26T09:33:29.035+08:00| vmx| I125: Progress 57% (none)
+2019-09-26T09:33:29.082+08:00| vmx| I125: Progress 58% (none)
+2019-09-26T09:33:29.129+08:00| vmx| I125: Progress 59% (none)
+2019-09-26T09:33:29.191+08:00| vmx| I125: Progress 60% (none)
+2019-09-26T09:33:29.238+08:00| vmx| I125: Progress 61% (none)
+2019-09-26T09:33:29.285+08:00| vmx| I125: Progress 62% (none)
+2019-09-26T09:33:29.347+08:00| vmx| I125: Progress 63% (none)
+2019-09-26T09:33:29.410+08:00| vmx| I125: Progress 64% (none)
+2019-09-26T09:33:29.457+08:00| vmx| I125: Progress 65% (none)
+2019-09-26T09:33:29.519+08:00| vmx| I125: Progress 66% (none)
+2019-09-26T09:33:29.551+08:00| vmx| I125: Progress 67% (none)
+2019-09-26T09:33:29.629+08:00| vmx| I125: Progress 68% (none)
+2019-09-26T09:33:29.676+08:00| vmx| I125: Progress 69% (none)
+2019-09-26T09:33:29.707+08:00| vmx| I125: Progress 70% (none)
+2019-09-26T09:33:29.754+08:00| vmx| I125: Progress 71% (none)
+2019-09-26T09:33:29.816+08:00| vmx| I125: Progress 72% (none)
+2019-09-26T09:33:29.863+08:00| vmx| I125: Progress 73% (none)
+2019-09-26T09:33:29.910+08:00| vmx| I125: Progress 74% (none)
+2019-09-26T09:33:29.957+08:00| vmx| I125: Progress 75% (none)
+2019-09-26T09:33:30.019+08:00| vmx| I125: Progress 76% (none)
+2019-09-26T09:33:30.066+08:00| vmx| I125: Progress 77% (none)
+2019-09-26T09:33:30.207+08:00| vmx| I125: Progress 78% (none)
+2019-09-26T09:33:30.254+08:00| vmx| I125: Progress 79% (none)
+2019-09-26T09:33:30.301+08:00| vmx| I125: Progress 80% (none)
+2019-09-26T09:33:30.355+08:00| vmx| I125: Progress 81% (none)
+2019-09-26T09:33:30.409+08:00| vmx| I125: Progress 82% (none)
+2019-09-26T09:33:30.456+08:00| vmx| I125: Progress 83% (none)
+2019-09-26T09:33:30.503+08:00| vmx| I125: Progress 84% (none)
+2019-09-26T09:33:30.566+08:00| vmx| I125: Progress 85% (none)
+2019-09-26T09:33:30.597+08:00| vmx| I125: Progress 86% (none)
+2019-09-26T09:33:30.644+08:00| vmx| I125: Progress 87% (none)
+2019-09-26T09:33:30.784+08:00| vmx| I125: Progress 88% (none)
+2019-09-26T09:33:30.894+08:00| vmx| I125: Progress 89% (none)
+2019-09-26T09:33:30.956+08:00| vmx| I125: Progress 90% (none)
+2019-09-26T09:33:31.003+08:00| vmx| I125: Progress 91% (none)
+2019-09-26T09:33:31.050+08:00| vmx| I125: Progress 92% (none)
+2019-09-26T09:33:31.081+08:00| vmx| I125: Progress 93% (none)
+2019-09-26T09:33:31.144+08:00| vmx| I125: Progress 94% (none)
+2019-09-26T09:33:31.222+08:00| vmx| I125: Progress 95% (none)
+2019-09-26T09:33:31.269+08:00| vmx| I125: Progress 96% (none)
+2019-09-26T09:33:31.300+08:00| vmx| I125: Progress 97% (none)
+2019-09-26T09:33:31.363+08:00| vmx| I125: Progress 98% (none)
+2019-09-26T09:33:31.394+08:00| vmx| I125: MainMem: Prefetch 1959 MB from checkpoint (501728 hot, 275653 locked, lazy = 0).
+2019-09-26T09:33:31.394+08:00| vmx| I125:   restoring MStats
+2019-09-26T09:33:31.394+08:00| vmx| I125:   restoring Snapshot
+2019-09-26T09:33:31.394+08:00| vmx| I125:   restoring pic
+2019-09-26T09:33:31.394+08:00| vmx| I125:   restoring scsi0:0
+2019-09-26T09:33:31.394+08:00| vmx| I125:   restoring sata0:1
+2019-09-26T09:33:31.394+08:00| vmx| I125:   restoring Migrate
+2019-09-26T09:33:31.394+08:00| vmx| I125:   restoring TimeTracker
+2019-09-26T09:33:31.394+08:00| vmx| I125: TimeTracker host to guest rate conversion 68593162904 @ 2999999000Hz -> 127404218530833 @ 2494227000Hz
+2019-09-26T09:33:31.394+08:00| vmx| I125: TimeTracker host to guest rate conversion ((x * 3570875655) >> 32) + 127347189538845
+2019-09-26T09:33:31.394+08:00| vmx| I125: Disabling TSC scaling since host does not support it.
+2019-09-26T09:33:31.394+08:00| vmx| I125: Disabling TSC offsetting since TSC rates differ: 2494227000 (guest) vs 2999999000 (host)
+2019-09-26T09:33:31.394+08:00| vmx| I125: timeTracker.globalProgressMaxAllowanceMS: 2000
+2019-09-26T09:33:31.394+08:00| vmx| I125: timeTracker.globalProgressToAllowanceNS: 1000
+2019-09-26T09:33:31.394+08:00| vmx| I125:   restoring Backdoor
+2019-09-26T09:33:31.394+08:00| vmx| I125:   restoring PCI
+2019-09-26T09:33:31.394+08:00| vmx| I125:   restoring Cs440bx
+2019-09-26T09:33:31.409+08:00| vmx| I125: DUMPER: Item 'gpe.status' [2, -1] not found.
+2019-09-26T09:33:31.409+08:00| vmx| I125: DUMPER: Item 'gpe.enable' [2, -1] not found.
+2019-09-26T09:33:31.409+08:00| vmx| I125:   restoring ExtCfgDevice
+2019-09-26T09:33:31.409+08:00| vmx| I125:   restoring Floppy
+2019-09-26T09:33:31.409+08:00| vmx| I125:   restoring AcpiNotify
+2019-09-26T09:33:31.409+08:00| vmx| I125:   restoring vcpuHotPlug
+2019-09-26T09:33:31.409+08:00| vmx| I125:   restoring MemoryHotplug
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring devHP
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring ACPIWake
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring DevicesPowerOn
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring PCIBridge0
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring PCIBridge4
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge4:1
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge4:2
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge4:3
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge4:4
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge4:5
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge4:6
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge4:7
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring PCIBridge5
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge5:1
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge5:2
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge5:3
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge5:4
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge5:5
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge5:6
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge5:7
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring PCIBridge6
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge6:1
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge6:2
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge6:3
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge6:4
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge6:5
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge6:6
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge6:7
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring PCIBridge7
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge7:1
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge7:2
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge7:3
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge7:4
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge7:5
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge7:6
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring pciBridge7:7
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring vide
+2019-09-26T09:33:31.425+08:00| vmx| I125: DUMPER: Block item 'monbuf' [0, -1] not found.
+2019-09-26T09:33:31.425+08:00| vmx| I125: DUMPER: Block item 'monbuf' [1, -1] not found.
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring SCSI0
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring VGA
+2019-09-26T09:33:31.425+08:00| vmx| I125:   restoring SVGA
+2019-09-26T09:33:31.425+08:00| vmx| I125: SVGA-GFB: Allocated gfbSize=33554432
+2019-09-26T09:33:31.425+08:00| vmx| A100: ConfigDB: Setting vmotion.checkpointFBSize = "33554432"
+2019-09-26T09:33:31.425+08:00| vmx| A100: ConfigDB: Setting vmotion.checkpointSVGAPrimarySize = "33554432"
+2019-09-26T09:33:31.441+08:00| vmx| I125: SVGA-ScreenMgr: Screen type changed to RegisterMode
+2019-09-26T09:33:31.456+08:00| vmx| I125: SVGA3dCaps: guest, saved in checkpoint
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  0]: 0x00000001 (3D)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  1]: 0x00000008 (MAX_LIGHTS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  2]: 0x00000008 (MAX_TEXTURES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  3]: 0x00000008 (MAX_CLIP_PLANES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  4]: 0x00000007 (VERTEX_SHADER_VERSION)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  5]: 0x00000001 (VERTEX_SHADER)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  6]: 0x0000000d (FRAGMENT_SHADER_VERSION)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  7]: 0x00000001 (FRAGMENT_SHADER)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  8]: 0x00000008 (MAX_RENDER_TARGETS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  9]: 0x00000001 (S23E8_TEXTURES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 10]: 0x00000001 (S10E5_TEXTURES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 11]: 0x00000004 (MAX_FIXED_VERTEXBLEND)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 12]: 0x00000001 (D16_BUFFER_FORMAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 13]: 0x00000001 (D24S8_BUFFER_FORMAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 14]: 0x00000001 (D24X8_BUFFER_FORMAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 15]: 0x00000001 (QUERY_TYPES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 16]: 0x00000001 (TEXTURE_GRADIENT_SAMPLING)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 17]:   1.000000 (MAX_POINT_SIZE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 18]: 0x00000014 (MAX_SHADER_TEXTURES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 19]: 0x00004000 (MAX_TEXTURE_WIDTH)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 20]: 0x00004000 (MAX_TEXTURE_HEIGHT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 21]: 0x00000800 (MAX_VOLUME_EXTENT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 22]: 0x00000800 (MAX_TEXTURE_REPEAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 23]: 0x00000800 (MAX_TEXTURE_ASPECT_RATIO)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 24]: 0x00000010 (MAX_TEXTURE_ANISOTROPY)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 25]: 0x001fffff (MAX_PRIMITIVE_COUNT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 26]: 0x000fffff (MAX_VERTEX_INDEX)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 27]: 0x0000ffff (MAX_VERTEX_SHADER_INSTRUCTIONS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 28]: 0x0000ffff (MAX_FRAGMENT_SHADER_INSTRUCTIONS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 29]: 0x00000020 (MAX_VERTEX_SHADER_TEMPS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 30]: 0x00000020 (MAX_FRAGMENT_SHADER_TEMPS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 31]: 0x03ffffff (TEXTURE_OPS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 32]: 0x0018ec1f (SURFACEFMT_X8R8G8B8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 33]: 0x0018e11f (SURFACEFMT_A8R8G8B8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 34]: 0x0008601f (SURFACEFMT_A2R10G10B10)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 35]: 0x0018e01f (SURFACEFMT_X1R5G5B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 36]: 0x0018e11f (SURFACEFMT_A1R5G5B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 37]: 0x0010e11f (SURFACEFMT_A4R4G4B4)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 38]: 0x0018ec1f (SURFACEFMT_R5G6B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 39]: 0x00006007 (SURFACEFMT_LUMINANCE16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 40]: 0x00006007 (SURFACEFMT_LUMINANCE8_ALPHA8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 41]: 0x00006007 (SURFACEFMT_ALPHA8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 42]: 0x00006007 (SURFACEFMT_LUMINANCE8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 43]: 0x000040c5 (SURFACEFMT_Z_D16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 44]: 0x000040c5 (SURFACEFMT_Z_D24S8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 45]: 0x000040c5 (SURFACEFMT_Z_D24X8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 46]: 0x0000e005 (SURFACEFMT_DXT1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 47]: 0x0000e005 (SURFACEFMT_DXT2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 48]: 0x0000e005 (SURFACEFMT_DXT3)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 49]: 0x0000e005 (SURFACEFMT_DXT4)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 50]: 0x0000e005 (SURFACEFMT_DXT5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 51]: 0x00014007 (SURFACEFMT_BUMPX8L8V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 52]: 0x00014007 (SURFACEFMT_A2W10V10U10)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 53]: 0x00014007 (SURFACEFMT_BUMPU8V8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 54]: 0x00014007 (SURFACEFMT_Q8W8V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 55]: 0x00014007 (SURFACEFMT_CxV8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 56]: 0x0090e01f (SURFACEFMT_R_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 57]: 0x0090e01f (SURFACEFMT_R_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 58]: 0x0090e01f (SURFACEFMT_RG_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 59]: 0x0090e01f (SURFACEFMT_RG_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 60]: 0x0090e01f (SURFACEFMT_ARGB_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 61]: 0x0090e01f (SURFACEFMT_ARGB_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 62]: 0x00000000 (MISSING62)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 63]: 0x00000010 (MAX_VERTEX_SHADER_TEXTURES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 64]: 0x00000008 (MAX_SIMULTANEOUS_RENDER_TARGETS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 65]: 0x00014007 (SURFACEFMT_V16U16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 66]: 0x0000601f (SURFACEFMT_G16R16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 67]: 0x0000601f (SURFACEFMT_A16B16G16R16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 68]: 0x01246000 (SURFACEFMT_UYVY)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 69]: 0x01246000 (SURFACEFMT_YUY2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 70]: 0x00000000 (MULTISAMPLE_NONMASKABLESAMPLES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 71]: 0x00000000 (MULTISAMPLE_MASKABLESAMPLES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 72]: 0x00000001 (ALPHATOCOVERAGE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 73]: 0x00000000 (SUPERSAMPLE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 74]: 0x00000001 (AUTOGENMIPMAPS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 75]: 0x01246000 (SURFACEFMT_NV12)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 76]: 0x01044000 (SURFACEFMT_AYUV)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 77]: 0x00000100 (MAX_CONTEXT_IDS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 78]: 0x00008000 (MAX_SURFACE_IDS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 79]: 0x00000000 (SURFACEFMT_Z_DF16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 80]: 0x00000000 (SURFACEFMT_Z_DF24)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 81]: 0x000040c5 (SURFACEFMT_Z_D24S8_INT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 82]: 0x00006005 (SURFACEFMT_ATI1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 83]: 0x00006005 (SURFACEFMT_ATI2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 84]: 0x00000000 (DEAD1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 85]: 0x00000000 (VIDEO_DECODE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 86]: 0x00000000 (VIDEO_PROCESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 87]: 0x00000000 (LINE_AA)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 88]: 0x00000000 (LINE_STIPPLE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 89]:   1.000000 (MAX_LINE_WIDTH)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 90]:   0.000000 (MAX_AA_LINE_WIDTH)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 91]: 0x01246000 (SURFACEFMT_YV12)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 92]: 0x00000001 (LOGICOPS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 93]: 0x00000001 (TS_COLOR_KEY)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 94]: 0x00000000 (DEAD2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 95]: 0x00000001 (DXCONTEXT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 96]: 0x00000200 (MAX_TEXTURE_ARRAY_SIZE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 97]: 0x00000010 (DX_MAX_VERTEXBUFFERS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 98]: 0x0000000d (DX_MAX_CONSTANT_BUFFERS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 99]: 0x00000000 (DX_PROVOKING_VERTEX)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[100]: 0x000000f7 (DXFMT_X8R8G8B8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[101]: 0x000001f7 (DXFMT_A8R8G8B8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[102]: 0x000000f7 (DXFMT_R5G6B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[103]: 0x000000f7 (DXFMT_X1R5G5B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[104]: 0x000000f7 (DXFMT_A1R5G5B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[105]: 0x000000f7 (DXFMT_A4R4G4B4)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[106]: 0x00000009 (DXFMT_Z_D32)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[107]: 0x0000006b (DXFMT_Z_D16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[108]: 0x0000006b (DXFMT_Z_D24S8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[109]: 0x0000000b (DXFMT_Z_D15S1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[110]: 0x000000e3 (DXFMT_LUMINANCE8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[111]: 0x000000e3 (DXFMT_LUMINANCE4_ALPHA4)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[112]: 0x000000e3 (DXFMT_LUMINANCE16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[113]: 0x000000e3 (DXFMT_LUMINANCE8_ALPHA8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[114]: 0x00000063 (DXFMT_DXT1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[115]: 0x00000063 (DXFMT_DXT2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[116]: 0x00000063 (DXFMT_DXT3)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[117]: 0x00000063 (DXFMT_DXT4)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[118]: 0x00000063 (DXFMT_DXT5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[119]: 0x000000e3 (DXFMT_BUMPU8V8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[120]: 0x00000000 (DXFMT_BUMPL6V5U5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[121]: 0x000000e3 (DXFMT_BUMPX8L8V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[122]: 0x00000000 (DXFMT_FORMAT_DEAD1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[123]: 0x000001f7 (DXFMT_ARGB_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[124]: 0x000001f7 (DXFMT_ARGB_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[125]: 0x000001f7 (DXFMT_A2R10G10B10)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[126]: 0x000000e3 (DXFMT_V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[127]: 0x000000e3 (DXFMT_Q8W8V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[128]: 0x000000e3 (DXFMT_CxV8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[129]: 0x000000e3 (DXFMT_X8L8V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[130]: 0x000000e3 (DXFMT_A2W10V10U10)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[131]: 0x000000e3 (DXFMT_ALPHA8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[132]: 0x000001f7 (DXFMT_R_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[133]: 0x000001f7 (DXFMT_R_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[134]: 0x000001f7 (DXFMT_RG_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[135]: 0x000001f7 (DXFMT_RG_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[136]: 0x00000001 (DXFMT_BUFFER)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[137]: 0x0000006b (DXFMT_Z_D24X8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[138]: 0x000001e3 (DXFMT_V16U16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[139]: 0x000001f7 (DXFMT_G16R16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[140]: 0x000001f7 (DXFMT_A16B16G16R16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[141]: 0x00000001 (DXFMT_UYVY)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[142]: 0x00000001 (DXFMT_YUY2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[143]: 0x00000001 (DXFMT_NV12)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[144]: 0x00000001 (DXFMT_AYUV)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[145]: 0x000000e1 (DXFMT_R32G32B32A32_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[146]: 0x000001e7 (DXFMT_R32G32B32A32_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[147]: 0x000001e7 (DXFMT_R32G32B32A32_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[148]: 0x000000e1 (DXFMT_R32G32B32_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[149]: 0x000001e3 (DXFMT_R32G32B32_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[150]: 0x000001e3 (DXFMT_R32G32B32_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[151]: 0x000001e3 (DXFMT_R32G32B32_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[152]: 0x000000e1 (DXFMT_R16G16B16A16_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[153]: 0x000001e7 (DXFMT_R16G16B16A16_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[154]: 0x000001e7 (DXFMT_R16G16B16A16_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[155]: 0x000001e7 (DXFMT_R16G16B16A16_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[156]: 0x000000e1 (DXFMT_R32G32_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[157]: 0x000001e7 (DXFMT_R32G32_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[158]: 0x000001e7 (DXFMT_R32G32_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[159]: 0x00000061 (DXFMT_R32G8X24_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[160]: 0x00000069 (DXFMT_D32_FLOAT_S8X24_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[161]: 0x00000061 (DXFMT_R32_FLOAT_X8X24_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[162]: 0x00000061 (DXFMT_X32_TYPELESS_G8X24_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[163]: 0x000000e1 (DXFMT_R10G10B10A2_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[164]: 0x000001e7 (DXFMT_R10G10B10A2_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[165]: 0x000001f7 (DXFMT_R11G11B10_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[166]: 0x000000e1 (DXFMT_R8G8B8A8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[167]: 0x000001f7 (DXFMT_R8G8B8A8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[168]: 0x000000f7 (DXFMT_R8G8B8A8_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[169]: 0x000001e7 (DXFMT_R8G8B8A8_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[170]: 0x000001e7 (DXFMT_R8G8B8A8_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[171]: 0x000000e1 (DXFMT_R16G16_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[172]: 0x000001e7 (DXFMT_R16G16_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[173]: 0x000001e7 (DXFMT_R16G16_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[174]: 0x000000e1 (DXFMT_R32_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[175]: 0x00000069 (DXFMT_D32_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[176]: 0x000001e7 (DXFMT_R32_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[177]: 0x000001e7 (DXFMT_R32_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[178]: 0x00000061 (DXFMT_R24G8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[179]: 0x00000069 (DXFMT_D24_UNORM_S8_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[180]: 0x00000061 (DXFMT_R24_UNORM_X8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[181]: 0x00000061 (DXFMT_X24_TYPELESS_G8_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[182]: 0x000000e1 (DXFMT_R8G8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[183]: 0x000001f7 (DXFMT_R8G8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[184]: 0x000001e7 (DXFMT_R8G8_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[185]: 0x000001e7 (DXFMT_R8G8_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[186]: 0x000000e1 (DXFMT_R16_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[187]: 0x000001f7 (DXFMT_R16_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[188]: 0x000001e7 (DXFMT_R16_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[189]: 0x000001e7 (DXFMT_R16_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[190]: 0x000001e7 (DXFMT_R16_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[191]: 0x000000e1 (DXFMT_R8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[192]: 0x000001f7 (DXFMT_R8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[193]: 0x000001e7 (DXFMT_R8_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[194]: 0x000001e7 (DXFMT_R8_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[195]: 0x000001e7 (DXFMT_R8_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[196]: 0x00000001 (DXFMT_P8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[197]: 0x000000e3 (DXFMT_R9G9B9E5_SHAREDEXP)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[198]: 0x000000e3 (DXFMT_R8G8_B8G8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[199]: 0x000000e3 (DXFMT_G8R8_G8B8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[200]: 0x000000e1 (DXFMT_BC1_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[201]: 0x000000e3 (DXFMT_BC1_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[202]: 0x000000e1 (DXFMT_BC2_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[203]: 0x000000e3 (DXFMT_BC2_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[204]: 0x000000e1 (DXFMT_BC3_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[205]: 0x000000e3 (DXFMT_BC3_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[206]: 0x000000e1 (DXFMT_BC4_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[207]: 0x00000063 (DXFMT_ATI1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[208]: 0x000000e3 (DXFMT_BC4_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[209]: 0x000000e1 (DXFMT_BC5_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[210]: 0x00000063 (DXFMT_ATI2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[211]: 0x000000e3 (DXFMT_BC5_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[212]: 0x00000000 (DXFMT_R10G10B10_XR_BIAS_A2_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[213]: 0x000000e1 (DXFMT_B8G8R8A8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[214]: 0x000000f7 (DXFMT_B8G8R8A8_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[215]: 0x000000e1 (DXFMT_B8G8R8X8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[216]: 0x000000f7 (DXFMT_B8G8R8X8_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[217]: 0x00000000 (DXFMT_Z_DF16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[218]: 0x00000000 (DXFMT_Z_DF24)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[219]: 0x0000006b (DXFMT_Z_D24S8_INT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[220]: 0x00000001 (DXFMT_YV12)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[221]: 0x000001f7 (DXFMT_R32G32B32A32_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[222]: 0x000001f7 (DXFMT_R16G16B16A16_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[223]: 0x000001f7 (DXFMT_R16G16B16A16_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[224]: 0x000001f7 (DXFMT_R32G32_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[225]: 0x000001f7 (DXFMT_R10G10B10A2_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[226]: 0x000001e7 (DXFMT_R8G8B8A8_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[227]: 0x000001f7 (DXFMT_R16G16_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[228]: 0x000001f7 (DXFMT_R16G16_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[229]: 0x000001e7 (DXFMT_R16G16_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[230]: 0x000001f7 (DXFMT_R32_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[231]: 0x000001e7 (DXFMT_R8G8_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[232]: 0x000001f7 (DXFMT_R16_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[233]: 0x00000069 (DXFMT_D16_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[234]: 0x000000f7 (DXFMT_A8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[235]: 0x000000e3 (DXFMT_BC1_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[236]: 0x000000e3 (DXFMT_BC2_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[237]: 0x000000e3 (DXFMT_BC3_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[238]: 0x000000f7 (DXFMT_B5G6R5_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[239]: 0x000000f7 (DXFMT_B5G5R5A1_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[240]: 0x000001f7 (DXFMT_B8G8R8A8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[241]: 0x000000f7 (DXFMT_B8G8R8X8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[242]: 0x000000e3 (DXFMT_BC4_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[243]: 0x000000e3 (DXFMT_BC5_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125: SVGA3dCaps: guest, at resume
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  0]: 0x00000001 (3D)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  1]: 0x00000008 (MAX_LIGHTS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  2]: 0x00000008 (MAX_TEXTURES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  3]: 0x00000008 (MAX_CLIP_PLANES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  4]: 0x00000007 (VERTEX_SHADER_VERSION)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  5]: 0x00000001 (VERTEX_SHADER)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  6]: 0x0000000d (FRAGMENT_SHADER_VERSION)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  7]: 0x00000001 (FRAGMENT_SHADER)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  8]: 0x00000008 (MAX_RENDER_TARGETS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[  9]: 0x00000001 (S23E8_TEXTURES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 10]: 0x00000001 (S10E5_TEXTURES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 11]: 0x00000004 (MAX_FIXED_VERTEXBLEND)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 12]: 0x00000001 (D16_BUFFER_FORMAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 13]: 0x00000001 (D24S8_BUFFER_FORMAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 14]: 0x00000001 (D24X8_BUFFER_FORMAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 15]: 0x00000001 (QUERY_TYPES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 16]: 0x00000001 (TEXTURE_GRADIENT_SAMPLING)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 17]:   1.000000 (MAX_POINT_SIZE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 18]: 0x00000014 (MAX_SHADER_TEXTURES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 19]: 0x00004000 (MAX_TEXTURE_WIDTH)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 20]: 0x00004000 (MAX_TEXTURE_HEIGHT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 21]: 0x00000800 (MAX_VOLUME_EXTENT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 22]: 0x00000800 (MAX_TEXTURE_REPEAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 23]: 0x00000800 (MAX_TEXTURE_ASPECT_RATIO)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 24]: 0x00000010 (MAX_TEXTURE_ANISOTROPY)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 25]: 0x001fffff (MAX_PRIMITIVE_COUNT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 26]: 0x000fffff (MAX_VERTEX_INDEX)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 27]: 0x0000ffff (MAX_VERTEX_SHADER_INSTRUCTIONS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 28]: 0x0000ffff (MAX_FRAGMENT_SHADER_INSTRUCTIONS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 29]: 0x00000020 (MAX_VERTEX_SHADER_TEMPS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 30]: 0x00000020 (MAX_FRAGMENT_SHADER_TEMPS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 31]: 0x03ffffff (TEXTURE_OPS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 32]: 0x0018ec1f (SURFACEFMT_X8R8G8B8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 33]: 0x0018e11f (SURFACEFMT_A8R8G8B8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 34]: 0x0008601f (SURFACEFMT_A2R10G10B10)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 35]: 0x0018e01f (SURFACEFMT_X1R5G5B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 36]: 0x0018e11f (SURFACEFMT_A1R5G5B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 37]: 0x0010e11f (SURFACEFMT_A4R4G4B4)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 38]: 0x0018ec1f (SURFACEFMT_R5G6B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 39]: 0x00006007 (SURFACEFMT_LUMINANCE16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 40]: 0x00006007 (SURFACEFMT_LUMINANCE8_ALPHA8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 41]: 0x00006007 (SURFACEFMT_ALPHA8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 42]: 0x00006007 (SURFACEFMT_LUMINANCE8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 43]: 0x000040c5 (SURFACEFMT_Z_D16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 44]: 0x000040c5 (SURFACEFMT_Z_D24S8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 45]: 0x000040c5 (SURFACEFMT_Z_D24X8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 46]: 0x0000e005 (SURFACEFMT_DXT1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 47]: 0x0000e005 (SURFACEFMT_DXT2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 48]: 0x0000e005 (SURFACEFMT_DXT3)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 49]: 0x0000e005 (SURFACEFMT_DXT4)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 50]: 0x0000e005 (SURFACEFMT_DXT5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 51]: 0x00014007 (SURFACEFMT_BUMPX8L8V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 52]: 0x00014007 (SURFACEFMT_A2W10V10U10)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 53]: 0x00014007 (SURFACEFMT_BUMPU8V8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 54]: 0x00014007 (SURFACEFMT_Q8W8V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 55]: 0x00014007 (SURFACEFMT_CxV8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 56]: 0x0090e01f (SURFACEFMT_R_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 57]: 0x0090e01f (SURFACEFMT_R_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 58]: 0x0090e01f (SURFACEFMT_RG_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 59]: 0x0090e01f (SURFACEFMT_RG_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 60]: 0x0090e01f (SURFACEFMT_ARGB_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 61]: 0x0090e01f (SURFACEFMT_ARGB_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 62]: 0x00000000 (MISSING62)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 63]: 0x00000010 (MAX_VERTEX_SHADER_TEXTURES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 64]: 0x00000008 (MAX_SIMULTANEOUS_RENDER_TARGETS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 65]: 0x00014007 (SURFACEFMT_V16U16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 66]: 0x0000601f (SURFACEFMT_G16R16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 67]: 0x0000601f (SURFACEFMT_A16B16G16R16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 68]: 0x01246000 (SURFACEFMT_UYVY)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 69]: 0x01246000 (SURFACEFMT_YUY2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 70]: 0x00000000 (MULTISAMPLE_NONMASKABLESAMPLES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 71]: 0x00000000 (MULTISAMPLE_MASKABLESAMPLES)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 72]: 0x00000001 (ALPHATOCOVERAGE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 73]: 0x00000000 (SUPERSAMPLE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 74]: 0x00000001 (AUTOGENMIPMAPS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 75]: 0x01246000 (SURFACEFMT_NV12)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 76]: 0x01044000 (SURFACEFMT_AYUV)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 77]: 0x00000100 (MAX_CONTEXT_IDS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 78]: 0x00008000 (MAX_SURFACE_IDS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 79]: 0x00000000 (SURFACEFMT_Z_DF16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 80]: 0x00000000 (SURFACEFMT_Z_DF24)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 81]: 0x000040c5 (SURFACEFMT_Z_D24S8_INT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 82]: 0x00006005 (SURFACEFMT_ATI1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 83]: 0x00006005 (SURFACEFMT_ATI2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 84]: 0x00000000 (DEAD1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 85]: 0x00000000 (VIDEO_DECODE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 86]: 0x00000000 (VIDEO_PROCESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 87]: 0x00000000 (LINE_AA)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 88]: 0x00000000 (LINE_STIPPLE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 89]:   1.000000 (MAX_LINE_WIDTH)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 90]:   0.000000 (MAX_AA_LINE_WIDTH)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 91]: 0x01246000 (SURFACEFMT_YV12)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 92]: 0x00000001 (LOGICOPS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 93]: 0x00000001 (TS_COLOR_KEY)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 94]: 0x00000000 (DEAD2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 95]: 0x00000001 (DXCONTEXT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 96]: 0x00000200 (MAX_TEXTURE_ARRAY_SIZE)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 97]: 0x00000010 (DX_MAX_VERTEXBUFFERS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 98]: 0x0000000d (DX_MAX_CONSTANT_BUFFERS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[ 99]: 0x00000000 (DX_PROVOKING_VERTEX)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[100]: 0x000000f7 (DXFMT_X8R8G8B8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[101]: 0x000001f7 (DXFMT_A8R8G8B8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[102]: 0x000000f7 (DXFMT_R5G6B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[103]: 0x000000f7 (DXFMT_X1R5G5B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[104]: 0x000000f7 (DXFMT_A1R5G5B5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[105]: 0x000000f7 (DXFMT_A4R4G4B4)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[106]: 0x00000009 (DXFMT_Z_D32)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[107]: 0x0000006b (DXFMT_Z_D16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[108]: 0x0000006b (DXFMT_Z_D24S8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[109]: 0x0000000b (DXFMT_Z_D15S1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[110]: 0x000000e3 (DXFMT_LUMINANCE8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[111]: 0x000000e3 (DXFMT_LUMINANCE4_ALPHA4)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[112]: 0x000000e3 (DXFMT_LUMINANCE16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[113]: 0x000000e3 (DXFMT_LUMINANCE8_ALPHA8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[114]: 0x00000063 (DXFMT_DXT1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[115]: 0x00000063 (DXFMT_DXT2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[116]: 0x00000063 (DXFMT_DXT3)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[117]: 0x00000063 (DXFMT_DXT4)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[118]: 0x00000063 (DXFMT_DXT5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[119]: 0x000000e3 (DXFMT_BUMPU8V8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[120]: 0x00000000 (DXFMT_BUMPL6V5U5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[121]: 0x000000e3 (DXFMT_BUMPX8L8V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[122]: 0x00000000 (DXFMT_FORMAT_DEAD1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[123]: 0x000001f7 (DXFMT_ARGB_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[124]: 0x000001f7 (DXFMT_ARGB_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[125]: 0x000001f7 (DXFMT_A2R10G10B10)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[126]: 0x000000e3 (DXFMT_V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[127]: 0x000000e3 (DXFMT_Q8W8V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[128]: 0x000000e3 (DXFMT_CxV8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[129]: 0x000000e3 (DXFMT_X8L8V8U8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[130]: 0x000000e3 (DXFMT_A2W10V10U10)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[131]: 0x000000e3 (DXFMT_ALPHA8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[132]: 0x000001f7 (DXFMT_R_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[133]: 0x000001f7 (DXFMT_R_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[134]: 0x000001f7 (DXFMT_RG_S10E5)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[135]: 0x000001f7 (DXFMT_RG_S23E8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[136]: 0x00000001 (DXFMT_BUFFER)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[137]: 0x0000006b (DXFMT_Z_D24X8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[138]: 0x000001e3 (DXFMT_V16U16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[139]: 0x000001f7 (DXFMT_G16R16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[140]: 0x000001f7 (DXFMT_A16B16G16R16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[141]: 0x00000001 (DXFMT_UYVY)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[142]: 0x00000001 (DXFMT_YUY2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[143]: 0x00000001 (DXFMT_NV12)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[144]: 0x00000001 (DXFMT_AYUV)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[145]: 0x000000e1 (DXFMT_R32G32B32A32_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[146]: 0x000001e7 (DXFMT_R32G32B32A32_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[147]: 0x000001e7 (DXFMT_R32G32B32A32_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[148]: 0x000000e1 (DXFMT_R32G32B32_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[149]: 0x000001e3 (DXFMT_R32G32B32_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[150]: 0x000001e3 (DXFMT_R32G32B32_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[151]: 0x000001e3 (DXFMT_R32G32B32_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[152]: 0x000000e1 (DXFMT_R16G16B16A16_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[153]: 0x000001e7 (DXFMT_R16G16B16A16_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[154]: 0x000001e7 (DXFMT_R16G16B16A16_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[155]: 0x000001e7 (DXFMT_R16G16B16A16_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[156]: 0x000000e1 (DXFMT_R32G32_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[157]: 0x000001e7 (DXFMT_R32G32_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[158]: 0x000001e7 (DXFMT_R32G32_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[159]: 0x00000061 (DXFMT_R32G8X24_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[160]: 0x00000069 (DXFMT_D32_FLOAT_S8X24_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[161]: 0x00000061 (DXFMT_R32_FLOAT_X8X24_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[162]: 0x00000061 (DXFMT_X32_TYPELESS_G8X24_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[163]: 0x000000e1 (DXFMT_R10G10B10A2_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[164]: 0x000001e7 (DXFMT_R10G10B10A2_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[165]: 0x000001f7 (DXFMT_R11G11B10_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[166]: 0x000000e1 (DXFMT_R8G8B8A8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[167]: 0x000001f7 (DXFMT_R8G8B8A8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[168]: 0x000000f7 (DXFMT_R8G8B8A8_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[169]: 0x000001e7 (DXFMT_R8G8B8A8_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[170]: 0x000001e7 (DXFMT_R8G8B8A8_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[171]: 0x000000e1 (DXFMT_R16G16_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[172]: 0x000001e7 (DXFMT_R16G16_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[173]: 0x000001e7 (DXFMT_R16G16_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[174]: 0x000000e1 (DXFMT_R32_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[175]: 0x00000069 (DXFMT_D32_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[176]: 0x000001e7 (DXFMT_R32_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[177]: 0x000001e7 (DXFMT_R32_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[178]: 0x00000061 (DXFMT_R24G8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[179]: 0x00000069 (DXFMT_D24_UNORM_S8_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[180]: 0x00000061 (DXFMT_R24_UNORM_X8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[181]: 0x00000061 (DXFMT_X24_TYPELESS_G8_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[182]: 0x000000e1 (DXFMT_R8G8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[183]: 0x000001f7 (DXFMT_R8G8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[184]: 0x000001e7 (DXFMT_R8G8_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[185]: 0x000001e7 (DXFMT_R8G8_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[186]: 0x000000e1 (DXFMT_R16_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[187]: 0x000001f7 (DXFMT_R16_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[188]: 0x000001e7 (DXFMT_R16_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[189]: 0x000001e7 (DXFMT_R16_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[190]: 0x000001e7 (DXFMT_R16_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[191]: 0x000000e1 (DXFMT_R8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[192]: 0x000001f7 (DXFMT_R8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[193]: 0x000001e7 (DXFMT_R8_UINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[194]: 0x000001e7 (DXFMT_R8_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[195]: 0x000001e7 (DXFMT_R8_SINT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[196]: 0x00000001 (DXFMT_P8)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[197]: 0x000000e3 (DXFMT_R9G9B9E5_SHAREDEXP)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[198]: 0x000000e3 (DXFMT_R8G8_B8G8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[199]: 0x000000e3 (DXFMT_G8R8_G8B8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[200]: 0x000000e1 (DXFMT_BC1_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[201]: 0x000000e3 (DXFMT_BC1_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[202]: 0x000000e1 (DXFMT_BC2_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[203]: 0x000000e3 (DXFMT_BC2_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[204]: 0x000000e1 (DXFMT_BC3_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[205]: 0x000000e3 (DXFMT_BC3_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[206]: 0x000000e1 (DXFMT_BC4_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[207]: 0x00000063 (DXFMT_ATI1)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[208]: 0x000000e3 (DXFMT_BC4_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[209]: 0x000000e1 (DXFMT_BC5_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[210]: 0x00000063 (DXFMT_ATI2)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[211]: 0x000000e3 (DXFMT_BC5_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[212]: 0x00000000 (DXFMT_R10G10B10_XR_BIAS_A2_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[213]: 0x000000e1 (DXFMT_B8G8R8A8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[214]: 0x000000f7 (DXFMT_B8G8R8A8_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[215]: 0x000000e1 (DXFMT_B8G8R8X8_TYPELESS)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[216]: 0x000000f7 (DXFMT_B8G8R8X8_UNORM_SRGB)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[217]: 0x00000000 (DXFMT_Z_DF16)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[218]: 0x00000000 (DXFMT_Z_DF24)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[219]: 0x0000006b (DXFMT_Z_D24S8_INT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[220]: 0x00000001 (DXFMT_YV12)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[221]: 0x000001f7 (DXFMT_R32G32B32A32_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[222]: 0x000001f7 (DXFMT_R16G16B16A16_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[223]: 0x000001f7 (DXFMT_R16G16B16A16_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[224]: 0x000001f7 (DXFMT_R32G32_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[225]: 0x000001f7 (DXFMT_R10G10B10A2_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[226]: 0x000001e7 (DXFMT_R8G8B8A8_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[227]: 0x000001f7 (DXFMT_R16G16_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[228]: 0x000001f7 (DXFMT_R16G16_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[229]: 0x000001e7 (DXFMT_R16G16_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[230]: 0x000001f7 (DXFMT_R32_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[231]: 0x000001e7 (DXFMT_R8G8_SNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[232]: 0x000001f7 (DXFMT_R16_FLOAT)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[233]: 0x00000069 (DXFMT_D16_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[234]: 0x000000f7 (DXFMT_A8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[235]: 0x000000e3 (DXFMT_BC1_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[236]: 0x000000e3 (DXFMT_BC2_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[237]: 0x000000e3 (DXFMT_BC3_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[238]: 0x000000f7 (DXFMT_B5G6R5_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[239]: 0x000000f7 (DXFMT_B5G5R5A1_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[240]: 0x000001f7 (DXFMT_B8G8R8A8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[241]: 0x000000f7 (DXFMT_B8G8R8X8_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[242]: 0x000000e3 (DXFMT_BC4_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   cap[243]: 0x000000e3 (DXFMT_BC5_UNORM)
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring usb
+2019-09-26T09:33:31.456+08:00| vmx| I125: DUMPER: Item 'lastFrnumChangeTime' [-1, -1] not found.
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring usb:0
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring usb:1
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring Ethernet0
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring sound
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring hpet0
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring ich7m.hpet
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring ehci
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring vmci0
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring sata0
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring OEMDevice
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring HotButton
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring vsock
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring GuestMsg
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring GuestRpc
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring Timer
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring ACPI
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring XPMode
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring Tools
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring Tools Install
+2019-09-26T09:33:31.456+08:00| vmx| I125: TOOLS INSTALL setting state to 0 on restore.
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring GuestAppMonitor
+2019-09-26T09:33:31.456+08:00| vmx| I125: DUMPER: Requested 10 bytes, found 5 bytes.
+2019-09-26T09:33:31.456+08:00| vmx| I125: DUMPER: Requested 20 bytes, found 5 bytes.
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring Hgfs
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring MKSVMX
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring ToolsDeployPkg
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring DMA
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring BackdoorAPM
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring CMOS
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring FlashRam
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring smram
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring A20
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring backdoorAbsMouse
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring Keyboard
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring SIO
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring serial0
+2019-09-26T09:33:31.456+08:00| vmx| I125:   restoring monitorLate
+2019-09-26T09:33:31.456+08:00| vmx| I125: Progress 101% (none)
+2019-09-26T09:33:31.472+08:00| vmx| I125: MainMem: Completed pending lazy checkpoint restore (0).
+2019-09-26T09:33:31.472+08:00| vmx| I125: Msg_Question:
+2019-09-26T09:33:31.472+08:00| vmx| I125: [msg.hvuser.NoVT] This host does not support Intel VT-x.
+2019-09-26T09:33:31.472+08:00| vmx| I125: [msg.checkpoint.efercheck.lmFeatureCheck] The virtual machine you are attempting to restore is in 64-bit mode, but your host does not support 64-bit VMs.
+2019-09-26T09:33:31.472+08:00| vmx| I125: [msg.checkpoint.restoregroup.failed] An error occurred while restoring the virtual machine state from file "D:\Windows 7_1\Windows 7_1-cc6c63d7.vmss".
+2019-09-26T09:33:31.472+08:00| vmx| I125: [msg.checkpoint.resume.error] An error caused the resume operation to fail. Preserve the suspended state and correct the error, or discard the suspended state.
+2019-09-26T09:33:31.472+08:00| vmx| I125: ----------------------------------------
+2019-09-26T09:33:35.347+08:00| vmx| I125: MsgQuestion: msg.checkpoint.resume.error reply=0
+2019-09-26T09:33:35.347+08:00| vmx| I125: Module 'CheckpointLate' power on failed.
+2019-09-26T09:33:35.347+08:00| vmx| I125: VMX_PowerOn: ModuleTable_PowerOn = 0
+2019-09-26T09:33:35.347+08:00| vmx| I125: Tools: ToolsRunningStatus_Exit, delayedRequest is 0x42BD620
+2019-09-26T09:33:35.347+08:00| vmx| I125: VMXVmdb_SetToolsVersionStatus: status value set to 'ok', 'current', install possible
+2019-09-26T09:33:35.347+08:00| vmx| I125: USB: Disconnecting device 0x10e0f0002
+2019-09-26T09:33:35.347+08:00| vmx| I125: USB: Disconnecting device 0x200000040e0f0003
+2019-09-26T09:33:35.363+08:00| svga| I125: SVGA thread is alive
+2019-09-26T09:33:35.363+08:00| svga| I125: SVGA thread is exiting
+2019-09-26T09:33:35.363+08:00| vmx| I125: MKS thread is stopped
+2019-09-26T09:33:35.363+08:00| mks| I125: MKS-RenderMain: Stopping MKSBasicOps
+2019-09-26T09:33:35.378+08:00| mks| I125: SOUNDLIB: Closing Wave sound backend.
+2019-09-26T09:33:35.378+08:00| mks| I125: MKS PowerOff
+2019-09-26T09:33:35.378+08:00| mks| I125: MKS thread is exiting
+2019-09-26T09:33:35.378+08:00| usbCCIDEnumCards| I125: USB-CCID: Card enum thread exiting.
+2019-09-26T09:33:35.410+08:00| vmx| I125: scsi0:0: numIOs = 1 numMergedIOs = 0 numSplitIOs = 0 ( 0.0%)
+2019-09-26T09:33:35.410+08:00| vmx| I125: Closing disk 'scsi0:0'
+2019-09-26T09:33:35.519+08:00| vmx| I125: AIOWIN32C: asyncOps=2 syncOps=66 bufSize=0Kb fixedOps=0 sgOps=0 sgOn=1
+2019-09-26T09:33:35.519+08:00| aioCompletion| I125: AIO thread processed 2 completions
+2019-09-26T09:33:35.738+08:00| vmx| I125: Vix: [4632 mainDispatch.c:1179]: VMAutomationPowerOff: Powering off.
+2019-09-26T09:33:35.738+08:00| vmx| I125: Policy_SavePolicyFile: invalid arguments to function.
+2019-09-26T09:33:35.738+08:00| vmx| I125: PolicyVMX_Exit: Could not write out policies: 15.
+2019-09-26T09:33:35.738+08:00| vmx| I125: WORKER: asyncOps=2 maxActiveOps=1 maxPending=0 maxCompleted=0
+2019-09-26T09:33:35.738+08:00| WinNotifyThread| I125: WinNotify thread exiting
+2019-09-26T09:33:35.863+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=1, newAppState=1875, success=1 additionalError=0
+2019-09-26T09:33:35.863+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2019-09-26T09:33:35.863+08:00| vmx| I125: Transitioned vmx/execState/val to suspended
+2019-09-26T09:33:35.863+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=0 additionalError=0
+2019-09-26T09:33:35.863+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4277]: Error VIX_E_FAIL in VMAutomation_ReportPowerOpFinished(): 未知错误
+2019-09-26T09:33:35.863+08:00| vmx| I125: Vix: [4632 mainDispatch.c:4238]: VMAutomation_ReportPowerOpFinished: statevar=0, newAppState=1870, success=1 additionalError=0
+2019-09-26T09:33:35.863+08:00| vmx| I125: Transitioned vmx/execState/val to suspended
+2019-09-26T09:33:35.863+08:00| vmx| A100: ConfigDB: Setting sata0:1.fileName = "auto detect"
+2019-09-26T09:33:35.863+08:00| vmx| I125: Vix: [4632 mainDispatch.c:834]: VMAutomation_LateShutdown()
+2019-09-26T09:33:35.863+08:00| vmx| I125: Vix: [4632 mainDispatch.c:783]: VMAutomationCloseListenerSocket. Closing listener socket.
+2019-09-26T09:33:35.863+08:00| vmx| I125: Flushing VMX VMDB connections
+2019-09-26T09:33:35.894+08:00| vmx| I125: VmdbDbRemoveCnx: Removing Cnx from Db for '/db/connection/#1/'
+2019-09-26T09:33:35.894+08:00| vmx| I125: VmdbCnxDisconnect: Disconnect: closed pipe for pub cnx '/db/connection/#1/' (0)
+2019-09-26T09:33:35.894+08:00| vmx| I125: VigorTransport_ServerDestroy: server destroyed.
+2019-09-26T09:33:35.894+08:00| vmx| I125: VMX exit (0).
+2019-09-26T09:33:35.894+08:00| vmx| I125: AIOMGR-S : stat o=4 r=36527 w=0 i=0 br=1480849 bw=0
+2019-09-26T09:33:35.894+08:00| vmx| I125: OBJLIB-LIB: ObjLib cleanup done.
